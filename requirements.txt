@@ -1,0 +1,67 @@
+# ============================================
+# FinRag 金融智能问答系统 — 依赖清单
+# ============================================
+# 使用方法：pip install -r requirements.txt
+# 建议使用国内镜像：
+#   pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+# 说明：以下依赖与代码实际 import 一一对应，按功能分类整理
+# ============================================
+
+# ─── Web 框架 ───────────────────────────────
+fastapi>=0.115.0                 # API 服务框架（main.py、routers/*）
+uvicorn[standard]>=0.30.0        # ASGI 服务器（main.py 启动入口）
+pydantic>=2.6.0                  # 请求/响应数据模型（models.py、routers/auth.py）
+
+# ─── 数据库 / 缓存客户端 ─────────────────────
+pymysql>=1.1.0                   # MySQL 驱动（db/mysql.py、init_data.py）
+cryptography>=42.0.0             # pymysql 认证加密支持（MySQL 8 caching_sha2_password 必需）
+redis>=5.0.0                     # Redis 客户端（db/redis.py 问答缓存）
+pymilvus>=2.4.0                  # Milvus 向量数据库客户端（db/milvus.py、init_data.py）
+
+# ─── LLM 调用 ────────────────────────────────
+openai>=1.30.0                   # DashScope 兼容模式 OpenAI SDK（services/llm.py）
+
+# ─── 本地模型推理（BGE-M3 / BGE-Reranker / BERT）──
+FlagEmbedding>=1.4.0              # BGEM3FlagModel：BGE-M3 稠密+稀疏混合编码（services/embedding.py、init_data.py）
+scipy>=1.14.0                      # 稀疏矩阵支持（scipy.sparse.csr_matrix，Milvus sparse_vector 存储）
+torch>=2.3.0                     # PyTorch 运行时（sentence-transformers 底层依赖；rag_qa/core/query_classifier.py BERT 分类）
+transformers>=4.40.0             # HuggingFace Transformers（BertTokenizer/BertForSequenceClassification 及嵌入模型底层）
+sentence-transformers>=3.0.0     # SentenceTransformer 嵌入 + CrossEncoder 重排（services/reranker.py）
+
+# ─── BM25 检索 & 中文分词 ────────────────────
+jieba>=0.42.1                    # 中文分词（services/bm25.py，含金融领域自定义词典）
+rank-bm25>=0.2.2                 # BM25Okapi 检索算法（services/bm25.py）
+numpy>=1.26.0                    # BM25 分数 softmax 归一化（services/bm25.py）
+
+# ─── LangChain（文档加载 & 文本切分）─────────
+langchain-core>=0.3.0            # Document 数据结构（rag_qa/edu_document_loaders/*.py）
+langchain-community>=0.3.0       # TextLoader / UnstructuredMarkdownLoader（rag_qa/core/document_processor.py）
+langchain-text-splitters>=0.3.0  # RecursiveCharacterTextSplitter / MarkdownTextSplitter（中文递归切分器、双层切分）
+unstructured>=0.15.0             # UnstructuredMarkdownLoader 运行时必需依赖（加载 .md 文档）
+
+# ─── 文档解析 ────────────────────────────────
+pymupdf>=1.24.0                  # PDF 解析与图片页渲染（import fitz，rag_qa/edu_document_loaders/edu_pdfloader.py）
+python-docx>=1.1.0               # Word 文档解析（import docx，rag_qa/edu_document_loaders/edu_docloader.py）
+
+# ─── OCR 引擎（PDF 图片页 / DOCX 内嵌图片识别）──
+rapidocr-onnxruntime>=1.3.0      # CPU OCR 引擎（rag_qa/edu_document_loaders/edu_ocr.py 回退引擎，无 GPU 环境必装）
+# rapidocr-paddle>=1.3.0         # 可选：GPU 加速 OCR 引擎（需 CUDA 环境；edu_ocr.py 会优先尝试，失败自动回退上一行）
+
+# ─── 认证 & 安全 ─────────────────────────────
+python-jose[cryptography]>=3.3.0 # JWT Token 签发与验证（routers/auth.py）
+pillow>=10.0.0                   # 图形验证码生成（routers/auth.py PIL 绘图）
+bcrypt>=5.0.0                     # 密码哈希存储（db/mysql.py、create_users_table.py）
+
+# ─── 日志 ─────────────────────────────────────
+loguru>=0.7.0                    # 结构化日志：控制台 + 文件双输出（log_config.py 及全项目）
+
+# ─── 多模态融合（DocAudit/ChatBI 融合, P1）─────
+langgraph>=1.2.0                 # LangGraph 编排（rag_qa/review/graph.py 审查流水线）
+langgraph-checkpoint>=1.0.0      # LangGraph 状态持久化依赖
+httpx>=0.27.0                    # LLM 结构化调用 trust_env=False（services/llm_ext.py）
+rapidocr-onnxruntime>=1.3.0      # 多模态扫描页 OCR（rag_qa/multimodal/ocr_parser.py）
+python-dotenv>=1.0.0             # .env 密钥加载（services/llm_ext.py）
+
+# ─── 测试 ─────────────────────────────────────
+pytest>=8.0.0                    # 单元测试框架（tests/test_*.py）
+pytest-mock>=3.14.0              # pytest _mock 插件（tests/test_llm.py 使用 @patch 模拟）

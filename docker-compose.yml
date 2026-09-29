@@ -1,0 +1,185 @@
+# ============================================================================
+# FinRag 编排文件
+#
+# 默认场景（推荐，适配本机已运行的 Redis / MySQL / Milvus 服务，避免 16G 内存
+# 同时跑两套中间件）：仅启动 app，通过 host.docker.internal 连接宿主机服务。
+#   docker compose up -d
+#
+# 全新环境（宿主机没有这些服务）：用 infra profile 一并拉起中间件。
+#   docker compose --profile infra up -d
+#
+# 内存预算参考（16G 主机）：
+#   - 宿主机原生 Milvus standalone 约 2~4G、MySQL ~0.5G、Redis ~0.2G
+#   - app 容器加载 BGE-M3(~2.3G) + Reranker(~1.1G) + BERT(~0.4G) 约 4~5G
+#   总体约 8~10G，留有冗余。下方 mem_limit 防止单服务失控吃光内存。
+# ============================================================================
+
+services:
+  # ─── 应用（默认启动）─────────────────────────────────────────────────
+  app:
+    build: .
+    container_name: finrag_app
+    ports:
+      - "8000:8000"
+    environment:
+      # 复用本机已运行的 Redis / MySQL / Milvus（Windows/macOS Docker Desktop 自带 host.docker.internal）
+      MYSQL_HOST: ${MYSQL_HOST:-host.docker.internal}
+      MYSQL_PORT: ${MYSQL_PORT:-3306}
+      MYSQL_USER: ${MYSQL_USER:-root}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-root}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-finrag_qa}
+      REDIS_HOST: ${REDIS_HOST:-host.docker.internal}
+      REDIS_PORT: ${REDIS_PORT:-6379}
+      REDIS_PASSWORD: ${REDIS_PASSWORD:-}
+      REDIS_DB: ${REDIS_DB:-0}
+      MILVUS_URI: ${MILVUS_URI:-http://host.docker.internal:19530}
+      MILVUS_DATABASE: ${MILVUS_DATABASE:-finrag}
+      MILVUS_COLLECTION: ${MILVUS_COLLECTION:-finrag_faq}
+      DASHSCOPE_API_KEY: ${DASHSCOPE_API_KEY:-}
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+    env_file:
+      - .env
+    volumes:
+      - ./config.ini:/app/config.ini:ro
+      - ./data:/app/data:ro
+      - ./logs:/app/logs
+      # 本地模型权重通过挂载进入容器（镜像本身不含模型，保持精简）
+      - ./bge-m3:/app/bge-m3:ro
+      - ./bge-reranker-v2-m3:/app/bge-reranker-v2-m3:ro
+      - ./bert-base-chinese:/app/bert-base-chinese:ro
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    mem_limit: 8g
+    mem_reservation: 4g
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://localhost:8000/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 10
+      start_period: 60s
+    networks:
+      - finrag_net
+
+  # ─── 以下仅 --profile infra 时启动（全新环境，无本机中间件）─────────────
+  mysql:
+    image: mysql:8.0
+    container_name: finrag_mysql
+    profiles: ["infra"]
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpass}
+      MYSQL_DATABASE: finrag_qa
+      MYSQL_USER: finrag
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-finrag123}
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./init_sql:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p${MYSQL_ROOT_PASSWORD:-rootpass}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    mem_limit: 1g
+    mem_reservation: 512m
+    networks:
+      - finrag_net
+
+  redis:
+    image: redis:7-alpine
+    container_name: finrag_redis
+    profiles: ["infra"]
+    command: redis-server --appendonly yes --requirepass ${REDIS_PASSWORD:-}
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    mem_limit: 512m
+    mem_reservation: 256m
+    networks:
+      - finrag_net
+
+  milvus:
+    image: milvusdb/milvus:v2.4.0
+    container_name: finrag_milvus
+    profiles: ["infra"]
+    command: milvus run standalone
+    ports:
+      - "19530:19530"
+      - "9091:9091"
+    environment:
+      ETCD_ENDPOINTS: etcd:2379
+      MINIO_ADDRESS: minio:9000
+    volumes:
+      - milvus_data:/var/lib/milvus
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9091/health"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+    depends_on:
+      etcd:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+    mem_limit: 4g
+    mem_reservation: 2g
+    networks:
+      - finrag_net
+
+  etcd:
+    image: quay.io/coreos/etcd:v3.5.13
+    container_name: finrag_etcd
+    profiles: ["infra"]
+    command: etcd -advertise-client-urls=http://etcd:2379 -listen-client-urls=http://0.0.0.0:2379
+    volumes:
+      - etcd_data:/etcd
+    healthcheck:
+      test: ["CMD", "etcdctl", "endpoint", "health"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    mem_limit: 512m
+    mem_reservation: 256m
+    networks:
+      - finrag_net
+
+  minio:
+    image: minio/minio:latest
+    container_name: finrag_minio
+    profiles: ["infra"]
+    command: minio server /data --console-address ":9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    volumes:
+      - minio_data:/data
+    healthcheck:
+      test: ["CMD", "mc", "ready", "local"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    mem_limit: 1g
+    mem_reservation: 512m
+    networks:
+      - finrag_net
+
+volumes:
+  mysql_data:
+  redis_data:
+  milvus_data:
+  etcd_data:
+  minio_data:
+
+networks:
+  finrag_net:
+    driver: bridge

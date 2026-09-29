@@ -1,0 +1,300 @@
+{"domain": "financial_accounting", "question": "根据提供的文本，在金融政策和决策背景下，“宏观网络”（Macro Network）的重要性是什么？", "answer": "“宏观网络”（Macro Network）提供了一个适合模拟传染和冲击传播的平台，使得在欧元区层面分析金融互联的静态和动态特征成为可能。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "为什么将来自不同数据库的 Medicare（医疗保险）索赔整合到一个集中式数据库被视为财务问责制的重要一步？", "answer": "Medicare（医疗保险）索赔通常由各州不同的承包商维护在独立的数据库中；将它们汇总后，CMS（美国医疗保险和医疗补助服务中心）可以有效应用数据挖掘技术来识别可疑模式，例如重复服务或不合逻辑的数据，而这些在孤立数据库中很难检测到。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果分析师希望使用作者的方法论对传染风险进行建模，除了直接的双边联系外，他们还应该考虑金融系统的哪些结构性方面？", "answer": "他们还应该考虑部门间的间接联系，因为通过网络技术的最新发展可以揭示结构异质性，从而识别这些间接联系。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "GAO（美国政府问责局）在使命部分中陈述的核心价值观是什么？", "answer": "GAO（美国政府问责局）的核心价值观是问责制、诚信和可靠性。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "CMS（美国医疗保险和医疗补助服务中心）在财务问责制进展方面的两个主要关注领域是什么？", "answer": "这两个主要领域是纠正内部控制弱点和其他财务管理问题，以及加强识别和衡量 Medicare（医疗保险）按服务付费不当支付的努力，包括与潜在欺诈和滥用相关的支付。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "某政府机构记录了8700万美元的应收所得税，但未为其维护会计记录。根据会计原则，为什么这对审计来说是一个重大问题？", "answer": "如果没有支持这8700万美元余额的基础文件或记录，审计师无法核实该资产的存在性或可收回性，从而无法确认应收账款是否得到公允列报。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据面板C的研究结果，哪个行业表现出最高水平的非对称及时性？", "answer": "“电信”（Telecom）行业表现出最高水平的非对称及时性。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "历史上，哪些具体标准允许北马里亚纳群岛联邦（CNMI）的服装免税进入美国市场？", "answer": "如果至少50%的商品价值是在北马里亚纳群岛联邦（CNMI）增加的，则这些服装有资格免税运往美国。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "比较文中定义的财务报告中“应报告状况”（reportable conditions）与“重大缺陷”（material weaknesses）的报告要求。", "answer": "应报告状况（reportable conditions）是指内部控制设计或运行中的重大缺陷，可能对产生公允财务报表的能力产生不利影响。重大缺陷（material weaknesses）是应报告状况的一个特定子集，指控制的设计或运行未能将重大错报（由于错误或欺诈）的风险降低到相对较低的水平。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "考虑到提到的经济因素，为什么一个拥有“有限基础设施”和“小国内市场”的政府可能难以维持稳定的预算？", "answer": "这些因素限制了加强经济的能力，而政府普遍依赖联邦拨款来提供基本服务，造成了难以克服的财政挑战。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果研究人员希望使用提供的数据从资产和负债的角度分析金融交易，他们应该利用哪个具体的统计来源？", "answer": "研究人员应该利用欧元区账户（Euro Area Accounts, EEA），也称为资金流量统计（flow of funds statistics）。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果北马里亚纳群岛联邦（CNMI）的游客总到达人数从2005年6月的43,115人下降到2006年6月的38,510人，游客数量的净减少是多少？", "answer": "净减少为4,605名游客（43,115 - 38,510 = 4,605）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "作者对国际会计准则理事会（IASB）/美国财务会计准则委员会（FASB）关于“决策有用”信息的定义提出的主要批评是什么？", "answer": "作者认为，从经济学角度来看，该定义过于宽泛，因为每一项决策都构成资源配置决策，这使得“在做出资源配置决策时有用”这一术语在经济学上缺乏帮助。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "为什么美国内政部（DOI）认为在其岛屿地区的两大优先事项上难以取得进展？", "answer": "美国内政部（DOI）官员表示，鉴于所涉挑战的性质，在这两个优先事项（私营部门经济发展和问责制）上不易取得进展。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "美属维尔京群岛（USVI）官员期望在实施新的企业资源规划（ERP）系统后实现哪些潜在效益？", "answer": "他们期望实现及时报告、对账、为决策者提供信息、完成单一审计，并减少或消除审计发现。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据监察长（IG）2003年的评估报告，岛屿地区政府未能充分解决审计发现的两个主要原因是什么？", "answer": "监察长（IG）将失败归因于缺乏对资金的联邦控制，以及美国内政部（DOI）缺乏充分的审计后续程序。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "CMS 财务监督审查中提到的月度支出报告的主要目的是什么？", "answer": "该报告包括对每个承包商已使用资金的调节，以确保向 CMS 报告的金额准确、有依据、完整且分类恰当。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据表9的附注，美属萨摩亚、北马里亚纳群岛联邦（CNMI）和关岛在2005财政年度的审计意见状况如何？", "answer": "这三个政府（美属萨摩亚、北马里亚纳群岛联邦和关岛）在其2005财政年度的单一审计报告（single audit reports）中均收到了保留意见（qualified opinions）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据表1中的数据，计算北马里亚纳群岛联邦（CNMI）与美属萨摩亚之间政府就业比例的差异。", "answer": "美属萨摩亚的政府就业比例为29.9%，北马里亚纳群岛联邦为11.7%，两者相差18.2个百分点。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据提供的标题，会计史研究的学术焦点从20世纪初到21世纪是如何演变的？", "answer": "20世纪初的研究，如 Penndorf (1913)，侧重于德国的簿记历史；而21世纪的研究，如由 Previts、Walton 和 Wolnizer 编辑的2010/11系列，已转向全球会计及财务报告政策的历史研究。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据美国政府问责局（GAO）的报告，哪些具体的内部控制失效导致了联邦拨款问责制的局限性？", "answer": "这些政府缺乏有效的内部控制，无法合理保证交易被正确记录、资产免受欺诈、浪费、滥用和管理不善的影响，以及联邦资金按照拨款要求使用。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "为什么美国教育部要求美属维尔京群岛（USVI）政府聘请第三方受托人？", "answer": "因为美属维尔京群岛政府未能在三年合规协议到期前满足所有条款，且该协议的特殊条件要求聘请一名受托人来履行赠款奖项的财务管理职责。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据文本，为什么2004年的《美国就业创造法案》（AJCA）可能会对美属维尔京群岛（USVI）政府的财政健康产生负面影响？", "answer": "《美国就业创造法案》实施了更严格的居住要求，并限制了有资格享受税收减免的收入类型，预计这将导致美国企业暂停在美属维尔京群岛的运营，从而减少当地政府的收入。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果利益相关者正在辩论是否重新任命经理或对特定管理政策进行投票，这是否属于理事会定义的财务报告目标？为什么？", "answer": "是的。根据讨论文件（DP IASB/FASB, OB28），关于更换或重新任命管理层以及对管理政策进行投票的决定被视为广义资源配置决策的一部分，而这些决策包含在财务报告的目标之内。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果潜在投资者正在审查 Nguyen 公司的财务记录，他们使用这些信息的方式与希望向同一家公司出售库存的信用分析师有何不同？", "answer": "潜在投资者将利用这些信息评估公司的财务状况，以预测未来的股价、股息支付和现金流；而信用分析师则利用这些信息确定 Nguyen 公司的信用worthiness，以决定是否向其赊销库存。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据提供的文件列表，确定2003年发布的审计报告数量是高于、低于还是等于2004年发布的报告数量。", "answer": "2003年发布了7份报告（2003-I-0002, 2003-I-0003, 2003-I-0012, 2003-I-0031, 2003-I-0032, 2003-I-0059, 2003-I-0067），2004年发布了2份报告（V-IN-VIS-0104-2003, V-IN-VIS-0069-2004）。因此，2003年的报告数量更高。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果一家公司经历了一个现金流较低的年份，他们在法律上是否有义务向股东支付股息？", "answer": "不，法律并不强制要求公司向股东支付股息。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果A部门受到负面冲击，这将如何影响拥有A部门股权的部门的资产负债表？", "answer": "A部门股东权益价值的下降反映在拥有A部门股权的部门资产负债表的资产方减少。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "一个岛屿政府遭遇了严重台风，破坏了公共基础设施。根据文本，这可能对其财政状况产生什么影响？", "answer": "台风、气旋和飓风等破坏性气候事件会对财政状况产生负面影响。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "一位分析师正在审查统计分析中心（SAC）试点项目的有效性。SAC项目评估的结果是什么？", "answer": "CMS 确定，SAC 项目中用于识别可疑 Medicare 索赔的技术是有效的，并在未来应用于其他索赔数据时会产生重大发现。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "2001年至2004年间，美属萨摩亚在财务报告内部控制方面的“重大缺陷”（Material Weaknesses）趋势如何变化？", "answer": "重大缺陷的数量从2001年的8个减少到2004年的6个。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "拟议的现场访问“更广泛框架”如何比当前流程促进更好的监控？", "answer": "更广泛的框架将个别拨款之外的信息（如内部控制弱点和个人层面的专业知识需求）整合到一个全面的监控过程中，而不仅仅是收集特定于项目的信息。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "一家公司正试图提高其 VUSCORE（估值有用性综合指标）。根据提供的研究结果，该公司应重点关注改善哪些变量以对该分数产生积极影响？", "answer": "为了对 VUSCORE 产生积极影响，该公司应专注于增加跟踪该公司的分析师数量，提高其盈利的持续性，并增强定价过程的信息效率。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果监管机构正在起草一项新准则，根据作者的建议，他们应如何处理财务报告的两个子目标？", "answer": "监管机构应承认，准则制定必须在估值有用性和受托责任这两个替代性目标之间取得平衡，而不是假设它们仅仅是单一目标中相互兼容的部分。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "情景：某个岛屿地区政府被联邦机构指定为“高风险受助人”。根据文本，导致这一指定的两个主要原因是什么？", "answer": "该指定是由于未能在法定截止日期前提交单一审计报告，以及存在严重的持续审计发现。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据论文，2007年金融危机后观察到的去杠杆化过程的主要驱动因素是什么？", "answer": "去杠杆化过程由最初的资产价格损失触发，随后因经济衰退而加剧。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "一位政府官员正在审查缩写列表，以确定哪个联邦机构负责管理儿童和家庭基金。他们应该查找哪个缩写？", "answer": "他们应该查找 ACF，即 Administration of Children and Families（儿童与家庭管理局）。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据表3，贷款工具类别中 ME 和 ME+C 方法在“直径”（Diameter）指标上的差异是多少？", "answer": "直径的差异为 -0.63，其中 ME 方法为 4.86，ME+C 方法为 5.49。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据提供的文本，为什么货币金融机构（MFI）部门被视为欧元区经济体中一个常见且突出的要素？", "answer": "MFI 部门的突出地位证明了欧元区经济体中以银行为主导的金融结构相当普遍。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "具体是什么阻碍了关于2002年公司所得税应收款项的收入和净资产变动的确定？", "answer": "由于记录不充分，与2002纳税年度相关的公司所得税应收款项被排除在期初净资产之外。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "GAO（美国政府问责局）审查了哪些文件以确定 CMS（医疗保险和医疗补助服务中心）此前已识别的财务管理弱点的状态？", "answer": "GAO 审查了 CMS 经审计的2000财年和2001财年财务报表、卫生与公众服务部（HHS）的责任报告，以及来自 GAO、HHS 监察长办公室（OIG）和其他机构的财务报告。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "为什么使用排除实际事件日期的短窗口来计算买卖价差的变化（ΔBAS）？", "answer": "使用短时期是因为投资者需要时间来消化盈利信息，且新的信息不对称可能在这些事件周围迅速增长。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果审计师正在调查美属维尔京群岛2003财年的财务问责情况，根据文档，他们应参考哪张表？", "answer": "他们应参考表17以了解导致保留审计意见的事项，或参考表21以了解审计师报告中报告的弱点。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "ATOVER 指标具体捕捉了市场交易中的哪些方面？", "answer": "ATOVER 指标捕捉了由新会计信息的到来所引发的所有市场交易。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据提供的范围，计算飓风 Hugo 和 Marilyn 对美属维尔京群岛造成的总综合经济成本，并确定 FEMA 和 SBA 提供的2亿美元赠款和贷款覆盖了这些成本的百分比。", "answer": "综合成本在30亿至40亿美元之间。2亿美元占这些成本的5%（2亿美元/40亿美元）至6.67%（2亿美元/30亿美元）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "欧元区账户（EEA）中分类的七个机构部门是什么？", "answer": "这七个机构部门是非金融公司（NFC）、银行/货币金融机构（MFI）、保险和养老基金公司（INS）、其他金融中介机构（OFI）、广义政府（GOV）、住户（HH）以及国外部门（ROW）。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "哪篇论文探讨了跨境投资背景下的对称现金流量征税概念？", "answer": "由 Frank Kramer 撰写的工作论文 2009-03 涵盖了这一主题。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "在有限的横截面样本背景下，VUSCORE 与需求侧受托责任衡量指标之间观察到的相关性是什么？", "answer": "VUSCORE 与所有需求侧受托责任衡量指标（DEBT、ACC_PAY、RENTEXP 和 EMPL）均呈一致的负相关关系。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果一个岛屿地区的政府在一个财政年度内的收入为5亿美元，支出为5.5亿美元，根据提供的定义，这对其净资产有何影响？", "answer": "净资产将减少5,000万美元，因为文中指出收入会增加净资产，而支出会减少净资产。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "为什么作者预期估值有用性（valuation usefulness）与受托责任（stewardship）之间存在负相关关系？", "answer": "因为那些优先利用会计手段来协调管理者与利益相关者之间激励相容（即受托责任）的公司，在提供额外与估值相关的信息方面的能力受到限制。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果审计机构发现政府资产未得到妥善保护，这意味着该机构在其职责方面承担什么责任？", "answer": "这意味着该机构有责任确保政府运营的高效性和有效性，并保护资产免受欺诈、浪费、滥用和管理不善的影响。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "CMS开发了哪种具体的管理工具来协助其财务管理人员确保会计和报告的一致性？", "answer": "CMS开发了一本会计程序手册，以指导其财务管理人员在Medicare（医疗保险）的会计处理和报告方面保持一致性。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "一家承包商的财务报告显示应收账款虚增了1.98亿美元。根据文中内容，CMS是如何发现这一问题的？", "answer": "CMS通过使用新开发的分析工具发现了这一问题，这些工具旨在对关键财务数据（如Medicare应收账款）进行趋势分析。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "作者如何区分“估值”（valuation）和“价值相关性”（value relevance）？", "answer": "估值旨在捕捉实际的会计相关估值决策，而价值相关性则侧重于会计信息与市场信息之间的对齐，而不一定解决会计信息是否对参与者的决策有用，或者它是否仅仅是对已知信息的重复反映。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果审计师报告关岛政府的“普通固定资产账户组”（General Fixed Assets Account Group）不完整，这将如何影响资产负债表在资产报告方面的可靠性？", "answer": "资产负债表将被视为不完整或存在错报，因为它未能反映实体拥有的全部资本资产范围，而这是准确财务报告的核心要求。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果岛屿地区的一个政府实体在单一年度内支出了60万美元的联邦资助款项，根据提供的文本，这一金额在财务监督方面有何意义？", "answer": "根据上下文，每年支出50万美元或以上联邦资助款项的受助者需遵守相关要求，其中包括获得无保留审计意见。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "哪个岛屿地区在2004财政年度的联邦拨款支出最高？它与支出最低的地区之间的美元差额是多少？", "answer": "关岛（Guam）的支出最高（1.634亿美元），北马里亚纳群岛联邦（CNMI）的支出最低（6,230万美元）。差额为1.011亿美元。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果Commonwealth Utilities Corporation在其财务报告中省略了“普通长期债务账户组”（General Long-Term Debt Account Group），这对专有基金（proprietary fund）报告的权益有何影响？", "answer": "省略长期债务负债会导致基金权益被高估，因为相对于实体的实际财务义务，总负债将被低估。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "为什么自报的重大缺陷（material weaknesses）和可报告状况（reportable conditions）的数量在2000财年和2001财年之间显著增加？", "answer": "增加的原因是CMS实施了一项新的审查流程，以验证承包商在年度内部控制评估中所遵循的方法。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "与“标准”最大熵（maximum entropy）方法相比，约束条件如何改变估计网络的特征？", "answer": "引入约束条件导致估计出的网络不再像标准ME估计产生的网络那样全部是对称且完全（或几乎完全）连接的。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果客户预期在四十年内获得10%至12%的总回报率，根据Kevin Burns提供的评论，他会认为这是一种成功的投资策略吗？", "answer": "不会，Burns表示，如果他的客户在四十年内仅获得10%或12%的总回报率，他们会解雇他。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "为什么及时提交单一审计报告（single audit reports）被认为对联邦资金的监督至关重要？", "answer": "迟交意味着联邦政府机构掌握的关于岛屿地区政府问责制的信息不是最新的，这限制了监督和监控过程的效用。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "尽管CMS制定了新的书面程序，为什么关于审计发现评估和解决的建议仍被视为“未结”（open）状态？", "answer": "该建议仍处于未结状态，因为目前跟踪审计发现的流程由于手动数据输入而效率低下，且CMS尚未实施一项策略来明确中央和区域员工在监督纠正行动计划方面的职责。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "情景：美属萨摩亚被要求连续两年实现预算平衡，以满足OIA的条件。如果政府在第一年利用保险和解金意外之财来平衡预算，这是否符合要求？", "answer": "不符合，因为OIA的要求明确指出，实现预算平衡时不得考虑非经常性意外之财，如保险和解金。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据提供的文本，参与企业的日常运营是否是投资者购买公司股票的典型原因？", "answer": "不是，参与日常运营不被视为投资者购买公司股票的原因。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "岛屿地区多年无法获得“无保留”审计意见，这标志着什么具体的问责问题？", "answer": "这表明需要更多地关注并对解决潜在问责问题的进展进行正式评估。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "关于仅专注于股票市场进行实证研究的决定，文中提到了哪两个具体局限性？", "answer": "第一个局限性是，忽视其他利益相关者市场（如债务、劳动力或商品市场）会引起对内部有效性的担忧；第二个局限性是，该方法论只能衡量已做出的实际决策，而无法衡量会计信息影响决策的一般能力。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "鉴于金枪鱼产业占美属萨摩亚私营部门活动的约85%，两家金枪鱼罐头厂直接雇佣了美属萨摩亚总劳动力的多大比例？", "answer": "根据美国劳工部（DOL）的数据，这两家金枪鱼罐头厂雇佣了约三分之一的美属萨摩亚劳动力。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果一名研究人员正在分析一个网络，并观察到节点A比任何其他节点都能更快地到达网络中的所有其他节点，这说明了哪种网络度量指标？", "answer": "这说明了“紧密度”（closeness），文中将其定义为一种影响力度量，其中处于最中心位置的节点可以快速到达所有其他节点。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据提供的财政数据，为何可以推断保险和解金对美属萨摩亚2002年和2003年报告的盈余至关重要？", "answer": "背景信息指出，如果没有收到这些保险赔偿金，美属萨摩亚在这些年份的支出将超过其收入。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "2001财年不当Medicare（医疗保险）支付的估计美元金额是多少？", "answer": "监察长办公室（OIG）报告称，2001财年的不当支付估计为121亿美元。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "一家公司正在分析如何更好地为其利益相关者服务。根据文本，研究人员可能会调查哪些具体的公司层面因素以更好地理解会计使用情况？", "answer": "研究人员可能会调查市场参与者使用财务会计信息的公司特定决定因素。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果一名研究人员对欧洲银行的监管环境感兴趣，他们应该查阅提供列表中的哪份工作论文？", "answer": "他们应该查阅题为“Ökonomische Analyse europäischer Bankenregulierung: Verbriefung und Interbankenmarkt im Fokus”的2011-01号工作论文。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "为何实施医疗保健综合总账会计系统（HIGLAS）被视为CMS财务管理的关键步骤？", "answer": "HIGLAS旨在消除对用于记录和报告财务信息的临时电子表格应用程序的依赖，并将Medicare承包商的会计系统与CMS完全整合。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "内政部（DOI）和岛屿事务办公室（OIA）就其投资发展会议和商业代表团的主要目标是什么？", "answer": "主要目标是促进美国公司与岛屿地区的政府及商业官员之间的互动和信息交流，以刺激各行业的新投资。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "计算OIA从2005年到2007年（预计）为PITI/VITI活动提供的资金总额。", "answer": "资金总额为450万美元（2005年150万美元 + 2006年150万美元 + 2007年150万美元）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "一名工作人员在审计Medicare项目时发现，不当支付计量设计缺乏对根本原因的评估。这一观察结果是否与GAO简报中提出的发现一致？", "answer": "是的，这与GAO简报一致。表1特别指出，需要“采取额外行动”，以“在计量方法的设计中包含足够的范围和评估，从而更有效地识别不当支付的根本原因”。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "GAO使用哪种会计准则来评估CMS制定的政策和程序？", "answer": "GAO使用了主计长发布的《联邦政府内部控制准则》（Standards for Internal Control in the Federal Government）。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果欧元区的一家金融机构经历交易对手风险激增，根据该研究关于2007年危机的发现，这可能会如何影响其资产负债表？", "answer": "根据该研究，交易对手风险的激增有助于去杠杆化过程以及双边敞口的急剧收缩，导致金融一体化显著恶化。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据聚类系数（CC）的定义，节点特定CC的最大可能值是多少？", "answer": "最大可能值为1，因为聚类系数定义为实际链接数除以最大可能链接数，且文中指出该值介于0和1之间。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据提供的上下文，计算“全样本”与“面板样本”之间观测值数量的差异。", "answer": "差异为 192,046 个观测值（311,907 个全样本观测值减去 119,861 个面板样本观测值）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果某政府实体声称新计算机系统的实施周期为 7 年，并以此作为过去内部控制失效的理由，审计师应如何在纠正行动计划中评估这一说法？", "answer": "审计师应评估该实体声称在该 7 年期间之后实施的新内部控制政策和程序是否足以解决此前发现的在一般会计和拨款管理方面的重大失效问题。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "哪一项具体的 GASB 准则要求州和地方政府报告基础设施并对资本资产计提折旧？", "answer": "第 34 号公告，《州和地方政府的基本财务报表——以及管理层讨论与分析》。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据关岛的表 16，在 2001 年至 2004 年期间，审计师连续多少年遇到“缺乏关岛游客局的经审计财务报表或遗漏关岛游客局”的问题？", "answer": "连续四年（2001 年、2002 年、2003 年和 2004 年）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果由于 NAFTA（北美自由贸易协定）下关税的取消，墨西哥成为向美国出口罐装金枪鱼的主要出口国，预计会对美属萨摩亚的金枪鱼产业产生什么影响？", "answer": "美属萨摩亚的金枪鱼产业将面临更激烈的竞争，这可能会对该岛屿地区的经济和政府产生不利影响，因为该产业是其最大的收入来源和主要的就业来源。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据文本，“价值相关性”与“估值有用性”之间的主要区别是什么？", "answer": "价值相关性衡量的是会计信息与公司价值之间联系的强度（通常作为市场价格的反映），而估值有用性则意味着市场参与者实际上从财务会计中获取了他们以前不知道的新信息。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果一位会计研究人员正在分析关于“公允价值”的历史辩论，根据提供的列表，咨询哪些作者和出版年份最为相关？", "answer": "相关的作者包括：Richard（2005 年），涉及 1673-1914 年的历史法规；M. Schmidt（2009 年），涉及信贷紧缩期间的模糊性；以及 Zimmermann 和 J. R. Werner（2006 年），涉及 IAS/IFRS 下的概念和批评。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "2012 年欧洲央行（ECB）金融一体化报告关于自 2007 年以来欧洲金融一体化的状况提出了什么观点？", "answer": "报告指出，泛欧金融服务的整合遭受了明显的挫折，欧洲金融一体化出现显著恶化，特别是在 2011 年期间。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果 CMS（美国医疗保险和医疗补助服务中心）旨在降低不当支付率，文中提到的哪三个具体项目提供了衡量和测试这些错误的框架？", "answer": "这三个项目是：综合错误率测试（CERT）项目、支付错误预防计划（PEPP）以及模型欺诈率项目。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "考虑到关岛 2004 年的数据，发现与联邦奖项相关的合规性问题比发现内部控制弱点更常见吗？", "answer": "发现与联邦奖项相关的合规性问题更为常见，共计 25 项，而财务报告相关的内部控制发现仅为 7 项。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "使用表 8 中的数据，计算美属萨摩亚在 2001 年至 2004 年期间平均逾期月数。", "answer": "数值分别为 25、23、14 和 8。总和为 70。除以 4 年，平均逾期时间为 17.5 个月。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "在所描述的冲击传播机制中，为什么冲击最终会停止在系统内循环？", "answer": "冲击随时间收敛，因为家庭和政府部门不发行股票，因此在金融账户中，它们不会将冲击进一步传导给其他部门。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "为什么研究表明，更多样化的跨境风险敞口组合是有益的？", "answer": "研究表明，更多样化的投资组合可能会减轻冲击影响，尽管整体 contagion（传染）风险不一定降低。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果 OIA（美国内政部岛屿事务办公室）决定对其商业机会任务进行定期评估，根据报告建议，他们应评估哪两个具体的绩效指标？", "answer": "他们应评估对创造私营部门就业岗位的影响以及对增加岛屿地区收入的影响。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据提供的表格，哪个岛屿地区在提交 2004 财政年度的单一审计报告时逾期月数最多？", "answer": "北马里亚纳群岛联邦（CNMI），其 2004 财政年度的报告逾期 22 个月提交。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果审计师确定关岛 2004 年联邦项目合规性共有 25 项发现，其中 8 项被确定为重大缺陷，那么有多少项可报告条件不属于重大缺陷？", "answer": "有 17 项可报告条件不属于重大缺陷（通过从 25 项总发现中减去 8 项重大缺陷计算得出）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "网络统计如何有助于理解金融系统性风险？", "answer": "网络统计提供了关于冲击如何在系统内传播的有用预测，并提供了对不同金融系统对此类冲击的敏感性和韧性的见解。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据提供的数据，美属维尔京群岛（USVI）（表17）中哪个财政年度显示审计师无法核实待售土地2500万美元公允陈述的情况？", "answer": "2001、2002和2003财政年度。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "在2007年金融危机爆发前的时期，金融工具类别之间的关联性发生了怎样的变化？", "answer": "网络结构显示，在2007年金融危机爆发前，不同工具类别之间的关联性不断增强。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "一位金融研究人员正在考察一个国家货币金融机构（MFI）部门的“入度强度”（in-degree strength）。他们究竟在衡量什么？", "answer": "他们正在衡量加权入度，它捕捉的是传入联系的强度或体量，而不仅仅是连接的简单计数。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "哪个岛屿地区的家庭中位数收入几乎等于美国41,000美元的家庭中位数收入？", "answer": "关岛，其家庭中位数收入为39,317美元。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "情景：如果一家美属维尔京群岛（USVI）公司提供国际服务，它会从当地政府获得什么好处？", "answer": "该公司受益于美属维尔京群岛政府于2001年设立的特殊税收激励计划。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "为什么该研究在测试会计信息与估值有用性之间的关系时依赖于不对称及时盈余？", "answer": "该研究使用不对称及时盈余，因为人们普遍认为此类盈余提高了会计信息的契约效率，这构成了测试其与估值有用性关系的基础。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "在美属维尔京群岛（USVI）的审计结果背景下，年末结账分录的性质、时间和范围表明政府的财务报告流程存在什么问题？", "answer": "它们表明财务报告控制存在弱点，特别是因为这些分录通常代表对本应在全年发生的常规交易的更正。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果你是一名像Ramon Sanchez这样的贷款官员，为什么审查公司过去的现金流比查看公司股价上涨是更相关的决策因素？", "answer": "现金流影响股价和股息支付，为债权人提供有关实体履行财务义务能力的关键信息。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据表9，哪个岛屿地区政府在2003和2004两个财政年度均收到了拒绝表示意见（disclaimer of opinion）？", "answer": "美属维尔京群岛（USVI）政府在2003和2004财政年度收到了拒绝表示意见。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据提供的文本，公众如何获取GAO-07-119报告？", "answer": "该报告可在GAO网站http://www.gao.gov上免费获取。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "在财务报表审计的背景下，“否定意见”（adverse opinion）与“保留意见”（qualified opinion）有何不同？", "answer": "保留意见指出影响公允列报的具体事项，而当审计师有确凿数据得出结论认为财务报表未按照公认会计准则（GAAP）公允列报时，则发表否定意见。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果一家公司的盈余反应系数（ERC）均值和中位数均显著为正，这表明市场参与者有何反应？", "answer": "这表明市场参与者通过调整其支付意愿来应对报告盈余的增加或减少，从而产生正或负的异常回报。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果分析师正在评估金融稳定性，金融体系的整合与经济效率有何关系？", "answer": "整合良好的金融体系是金融效率的重要要素，因为它促进金融风险分担，促进信贷获取，并降低家庭、企业和金融中介机构的成本。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "金融危机后双边联系的减少是否意味着欧元区金融体系对冲击的脆弱性到2012年已消除？请解释。", "answer": "没有。文本指出，由于传播冲击的影响，尽管此前联系体量有所减少，但截至2011年和2012年，欧元区金融体系的脆弱性并未降低。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果分析师正在评估美属萨摩亚政府收入的可持续性，他们将如何解读2004财年联邦贡献百分比与2003年相比的变化？", "answer": "分析师会注意到对联邦资金的依赖性显著增加，因为联邦贡献占总收入的比例从2003年的49.3%上升到2004年的60.3%。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "在应用年度 Compustat 数据要求后，样本中有多少个观测值？", "answer": "样本量减少至 2,978 个观测值。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果审计师对某个离岸地区的财务报表出具了“保留审计意见”，根据文件结构，这对该政府的财务报告意味着什么？", "answer": "这意味着存在特定事项导致对这些财务报表的准确性或合规性产生担忧，正如记录“导致保留审计意见的事项”的表格所证明的那样。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "在提供的背景下，指出北马里亚纳群岛联邦（CNMI）政府无法确定其适当性的两类具体财务信息。", "answer": "CNMI 政府无法确定应收账款以及北马里亚纳学院（Northern Marianas College）的存货/资本资产的适当性。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "CNMI 教育部在 2003 年被列为高风险的主要原因是什麼？", "answer": "CNMI 教育部连续 4 年未能及时提供完整的单一审计（single audits）。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "为了确保一致性和可靠性，HIGLAS 系统的项目计划是依据哪个具体框架制定的？", "answer": "项目计划是依据联合财务管理改进计划（Joint Financial Management Improvement Program）的《联邦财务管理系统要求》制定的。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据状态表，计算仍需采取“额外行动”的建议占原始 8 项建议总数的百分比。", "answer": "共有 8 项建议。根据表 1，有 5 项建议在“需要额外行动”列中标记（3 项属于财务管理，2 项属于不当支付）。因此，占总建议数 5/8 即 62.5% 的建议需要采取额外行动。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据报告的数据，从 2000 财年（FY 2000）到 2001 财年（FY 2001），重大缺陷和应报告条件的合计总数增加了多少？", "answer": "在 2000 财年，合计项目为 350 个（42 个重大缺陷 + 308 个应报告条件）。在 2001 财年，合计项目为 1,600 个（300 个重大缺陷 + 1,300 个应报告条件）。总增加量为 1,250 个项目。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "为什么“星型网络”结构既被认定为高效又被认定为脆弱？", "answer": "该结构之所以高效，是因为它允许信息交换的通信路径较短；然而，它之所以脆弱，是因为中心枢纽受到的冲击会显著影响整个网络。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据 FAcT-Papers 列表，Felix Waldvogel 撰写的论文按时间顺序排列是怎样的？", "answer": "Felix Waldvogel 撰写或合著了编号为 2009-01、2011-01 和 2012-02 的论文。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "在不确定系统的背景下，最大熵方法的主要功能是什么？", "answer": "最大熵方法通过倾向于均匀和平滑的分布，使研究人员能够从不确定的系统中找到唯一解。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "情景：审计师发现某地方政府缺乏有效的内部控制，以确保交易得到适当记录且资产得到保护。根据当前的报告标准，他们不太可能获得哪种类型的审计意见？", "answer": "他们不太可能获得无保留（“清洁”）审计意见。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果分析师正在审查研究中的模型 (9)，为什么在解释关于变量 RENTEXP 和 EMPL 的结果时应谨慎？", "answer": "需要谨慎，因为 RENTEXP 和 EMPL 表现出高度相关性，这可能是因为它们共享相同的分母。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果政府实体不同意单一审计中的审计发现，纠正行动计划必须包括什么内容？", "answer": "纠正行动计划必须包括解释以及该实体认为不需要采取纠正措施的具体原因。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "GAO 使用什么标准来评估 CMS 为应对其财务管理建议而制定的政策和程序？", "answer": "GAO 使用《联邦政府内部控制主计长标准》（GAO/AIMD-00-21.3.1）来评估这些政策和程序。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "情景：某政府受赠方未能解决审计发现并持续迟交报告。根据提供的文本，联邦机构可以对其施加哪两种潜在的特别条件？", "answer": "该机构可以要求受赠方获得技术或管理援助，并要求受赠方在支出联邦资金前获得额外的预先批准。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "在美属萨摩亚电信管理局（American Samoa Telecommunication Authority）的背景下，导致出具无法表示意见的主要会计记录保存失败有哪些？", "answer": "这些失败包括：无法维持准确的存货记录、无法将总分类账与实物存货进行核对、物业、厂房和设备（PP&E）成本不可用，以及应收账款辅助记录存在差异导致系统不可靠。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "内政部（Department of the Interior）监察长（Inspector General, IG）在涉及岛屿地区（insular areas）事务时的主要职能是什么？", "answer": "内政部监察长负责对岛屿地区的联邦资金进行审计监督，并评估岛屿事务办公室（OIA）项目的有效性。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据 F. Schmidt 著作的标题，在资产估值方面突出了什么概念冲突？", "answer": "存在“重置价值”（在其1930年的作品中提及）与“增值”是否应被视为“利润”（在其1931年的作品中提出质疑）之间的冲突。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果一个组织在汇总现金（pooled cash）的准确性方面存在内部控制失效，根据提供的美属萨摩亚表格，该问题出现的频率如何？", "answer": "关于无法核实与其他基金之间应收/应付款项（即汇总现金）准确性的问题，在所列出的所有四个财政年度（2001年、2002年、2003年和2004年）中均持续出现。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "哪些特定群体被确定为高交易成本利益相关者的代理变量？", "answer": "债权人、供应商、出租人和员工被确定为面临高交易成本的利益相关者的代理群体。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "某实体正在准备其单一审计（single audit）报告包。他们必须包含哪份具体文件以说明审计师对联邦奖项（federal awards）的审查情况？", "answer": "该实体必须包含联邦奖项支出表（schedule of expenditures of federal awards）、相关附注以及审计师对该表的报告。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据上下文，政府基金（governmental funds）的主要功能是什么？", "answer": "政府基金为政府提供的大部分基本服务提供资金。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果美属维尔京群岛（USVI）的审计员发现卫生部的记录与财务管理系统（FMS）不一致，潜在的会计风险是什么？", "answer": "风险在于错误过账的交易可能未被发现和纠正，导致向拨款机构（如美国农业部 USDA）报告不准确的财务信息。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "在所提供的类比中，会计师的“油画颜料、粉彩或水彩”代表什么？", "answer": "它们代表会计师用来捕捉反映组织本质的相似性的数字和文字。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "为什么美国政府问责局（GAO）选择将“穿行测试”（walk-throughs）作为其方法论的一部分，对财务管理办公室的活动进行测试？", "answer": "进行穿行测试是为了观察活动并确认，为响应 GAO 建议而制定的程序不仅已有文档记录，而且已实际到位并有效运行。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "鉴于2001财年不当支付金额为121亿美元，占按服务付费（fee-for-service）支付总额的6.3%，按服务付费支付总额大约是多少？", "answer": "要计算总额，请将不当支付金额除以百分比：121亿美元 / 0.063 = 约1920.6亿美元。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "作者提议使用哪种具体的理论概念来评估受托责任（stewardship role）的相对重要性？", "answer": "作者提议使用与合同相关的公司-年度特定衡量指标（contract-related firm-year specific measures）。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "哪三个部门促进了美属维尔京群岛（USVI）的经济？", "answer": "美属维尔京群岛的经济主要依赖旅游业、石油精炼业以及国际商业和金融服务。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "在构建 VUSCORE 时，为什么 ΔBAS 指标要乘以 -1？", "answer": "ΔBAS 指标乘以 -1 是为了确保正确的排名，因为综合得分基于四个指标的十分位排名（decile ranks）。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "报告中确定的岛屿事务办公室（OIA）针对岛屿地区（insular areas）的两个主要优先事项是什么？", "answer": "两个主要优先事项是私营部门经济发展和问责制。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "为什么与基于会计披露相比，基于自愿披露起草合同可能成本更高？", "answer": "因为管理者不能被强制提供自愿披露，这使得与正式的会计披露相比，自愿披露作为合同安排的基础可靠性或稳定性较低。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如有有关“财务管理和保证”（Financial Management and Assurance）的问题，应联系哪位具体联系人？", "answer": "可联系财务管理和保证主任 Jeanette Franzel，电话 (202)512-9471 或邮箱 Franzelj@gao.gov。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果审计师在审查承包商的应收账款时，发现 CMS 此前高估了 1.98 亿美元的余额，这将如何影响该机构财务报表的准确性？", "answer": "高估表明此前的财务报表不准确；识别这一差异使 CMS 能够更正记录并确保财务数据的可靠性。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据提供的关岛 2004 年数据，计算运营净盈余或赤字（收入减去支出）占总收入的百分比。", "answer": "关岛 2004 年的收入为 658,021,821 美元，收入减去支出为 -27,314,760 美元。换算成百分比，约为 -4.15% (-27,314,760 / 658,021,821)。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "一位读者注意到关岛的净资产在 2002 年大幅下降。根据提供的背景信息，造成这一下降的原因是什么？", "answer": "2002 财年净资产的大幅下降反映了对此前错报金额的修正。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据文中内容，为何银行业被视为欧元区跨境风险敞口的主要驱动因素？", "answer": "银行业是主要驱动因素，因为其他部门传统上强烈依赖银行中介服务。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果激励错位严重且无法通过会计信息加以纠正，为何理性的利益相关者不会要求提供会计信息？", "answer": "在这种情况下，信息被视为“不可验证”且仅仅是“空谈”，导致利益相关者得出结论认为该信息没有价值。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "为何 Kevin Burns 将股票等流动资产置于房地产等投资之上？", "answer": "他偏好流动资产，因为它们可以迅速转换为现金，使他在改变主意时能够灵活地在购买后不久出售投资。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "创建一个可通过互联网访问的数据库如何帮助 CMS 解决此前在财务管理中发现的弱点？", "answer": "该数据库通过整合所有财务管理指南（包括项目备忘录）来解决这些弱点，从而使承包商能够更轻松地访问此前分散在多本手册中的关键法规。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "考虑到提供的列表，Eugen Schmalenbach 的作品中提到的不同出版年份总数是多少？", "answer": "Eugen Schmalenbach 列出的不同出版年份为 1919 年、1933 年和 1959 年，共计 3 个不同年份。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "使用表 12 中的数据，关岛和美属维尔京群岛（USVI）在调查结果总数上的差异是多少？", "answer": "关岛的调查结果总数为 25 项，美属维尔京群岛（USVI）为 31 项，差异为 6 项。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据文中内容，信息环境对会计信息的作用有何影响？", "answer": "信息环境会影响会计信息的作用，这表明在探讨市场参与者如何使用会计数据的公司特定决定因素时，它是一个需要考虑的重要因素。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果美国内政部（DOI）旨在提高岛屿地区的问责制，报告建议实施哪些具体机制以确保实现监控目标？", "answer": "报告建议实施一个现场访问框架，以帮助确保实现监控目标。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果多个联邦机构向同一岛屿地区提供拨款但未协调其工作，根据 IGIA 的观察，这会造成什么具体的财务问责风险？", "answer": "这会造成联合监控有限的风险，阻碍各机构共同分享高风险指定等关键信息，从而妨碍它们共同努力提高政府的财务问责制。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果一个国家的政府部门与其他国家相比被指出具有“相对更突出的作用”，根据数据，哪些具体国家体现了这一点？", "answer": "一般政府部门在第 11 号和第 9 号国家中发挥着相对更突出的作用。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果一个岛屿地区持续收到保留意见审计报告，报告提供了什么具体建议来帮助其过渡到无保留意见（“清洁”）审计报告？", "answer": "报告建议制定并实施程序，对岛屿地区为解决问责调查结果所取得的进展进行正式评估，并设定实现无保留意见审计报告的具体时间表。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "为何作者建议面临较高交易成本的利益相关者要求更高水平的受托责任？", "answer": "因为交易成本较高的利益相关者发现分散非系统性风险的成本更高，且重新谈判合同更加困难，所以他们更要求受托责任，以防止管理层不遵守明示或默示的合同。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "提供的文本中定义的主要方法论框架是什么？", "answer": "该方法论框架在《1995 年欧洲账户体系》（ESA95）中定义。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "为什么北马里亚纳群岛联邦（CNMI）官员表示其负债账户余额可能出现负值？", "answer": "北马里亚纳群岛联邦（CNMI）官员表示，出现负值的原因可能是预付款项未得到适当结转。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "欧元区宏观网络（Macro Network）中定义的平均路径长度是多少？", "answer": "欧元区宏观网络（Macro Network）的平均路径长度为2.50。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "计算北马里亚纳群岛联邦（CNMI）对美服装出口额从2004年（8.07亿美元）到2005年（6.77亿美元）的百分比降幅。", "answer": "降幅为（8.07亿美元 - 6.77亿美元）/ 8.07亿美元，约等于16.1%。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果某实体因账面价值未知而未报告其在合资企业中的股权权益，这违背了关于财务披露的哪项会计原则？", "answer": "这违背了充分披露和公允列报原则，因为财务报表未能准确反映该实体的经济利益或财务状况。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据文本，为什么估值有用性（valuation usefulness）的定义比决策有用性（decision usefulness）的定义更狭窄？", "answer": "决策有用性是一个涵盖用于资源配置的任何信息的广泛概念，而估值有用性则专门侧重于与估值过程相关的信息（即评估未来现金流量的金额、时间和不确定性）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果研究人员分析一家公司并注意到盈余惊喜（earnings surprises）与非对称及时性（asymmetric timeliness）呈负相关，文本对此现象提供了何种解释？", "answer": "这种负相关关系可以解释为：具有非对称及时性的盈余要么未向市场提供新信息，要么仅提供不透明的新信息。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "情景：塞班岛的一家航空公司运营商正在评估市场运力。如果日本航空（JAL）减少航班导致座位数损失，采取何种策略来抵消这一损失？", "answer": "该策略涉及西北航空（Northwest Airlines）新开的大阪至塞班岛每日直飞航班，预计将弥补因日本航空（JAL）航班减少而损失的约40%的座位。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果对某家公司的实证分析显示资本市场对季度盈余公告反应强烈，根据Gassen的研究，该公司的受托责任导向（stewardship-orientation）将被如何分类？", "answer": "基于估值有用性与受托责任导向呈负相关的发现，此类公司可能被归类为低受托责任导向。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "假设一家金融机构正在评估其风险管理策略。根据研究结果，它如何有效减少传播后损失（post-propagation losses）？", "answer": "该机构可以通过采用多元化的跨境敞口结构来减少传播后损失，因为研究表明这种网络配置会导致较低的损失。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "2001年至2004年间，美属维尔京群岛（USVI）政府的财政状况与在北马里亚纳群岛联邦（CNMI）和关岛观察到的一般趋势有何不同？", "answer": "虽然北马里亚纳群岛联邦（CNMI）和关岛因支出增长快于收入而导致基金余额下降，但美属维尔京群岛（USVI）保持了政府总基金的正余额，并通过增加借款减少了其净资产负余额。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据文本，哪些国家的货币金融机构（MFI）部门被认定为中心度最高？这如何影响它们在网络中的作用？", "answer": "国家1和国家10被认定为中心度最高。这使它们成为网络中的“枢纽”，证实了它们作为其他国家银行部门最重要交易对手的关键作用。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果北马里亚纳群岛联邦（CNMI）的一家服装厂完全由外资拥有并使用临时外籍劳工运营，与本地拥有的企业相比，这对当地经济保留财富有何影响？", "answer": "背景指出，外资企业产生的利润通常会被汇回本国，且外籍工人会将大部分收入作为汇款寄回原籍国，这表明相当一部分经济价值流出岛屿，而非留在当地经济中。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "作者认为哪项主要指标是衡量财务会计信息受托责任导向（stewardship orientation）最可靠的依据？", "answer": "作者确定条件稳健性（conditional conservatism），也称为盈余稳健性、新闻依赖型稳健性或非对称及时性，是可靠的衡量指标。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "研究人员利用哪个数据点作为分母来计算岛屿地区政府的收入和支出比率？", "answer": "他们使用美国人口普查局编制的2002年国内生产总值（GDP）基准估算值，将收入和支出计算为占GDP的百分比。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果维尔京群岛住房管理局（VIHA）目前正在评估其2007年的政策和程序，它目前正试图满足退出接管状态（receivership）的哪项具体要求？", "answer": "维尔京群岛住房管理局（VIHA）正试图满足提供证据的要求，证明其已建立符合美国住房和城市发展部（HUD）要求的政策和程序，并且这些程序正在得到执行。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果Metro Corporation拥有4,000,000美元现金和45,000,000美元销售额，其销售额与现金的比率是多少？", "answer": "销售额与现金的比率为11.25（45,000,000美元 / 4,000,000美元）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "研究人员如何确定应联系哪些联邦机构，以识别每个岛屿地区的高风险受助者？", "answer": "他们利用2004财年单一审计报告（single audit reports）中包含的联邦奖项支出计划表，确定了每个岛屿地区最大的五家联邦拨款机构。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "文中提到的“股份”和“存款”在聚类系数（clustering coefficient）上的主要区别是什么？", "answer": "股份的聚类系数为0.90，而存款的聚类系数为0.45。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "作者为何反对准则制定委员会（Boards）可能采用的关于决策有用性的宽泛定义？", "answer": "作者认为，对决策有用性采用宽泛的定义会模糊会计信息影响经济关系的渠道之间的重要差异。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据文中内容，哪些具体因素决定了金融冲击对全球经济的影响？", "answer": "全球影响取决于冲击的初始位置，具体涉及所涉金融工具、受影响的经济部门以及原产国。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果审计师在审查VIHA 2001和2002财年的记录时指出无法追踪支出，这是否符合及时财务报告的要求？", "answer": "不符合，因为无法追踪支出以及缺乏经审计的及时财务报表，表明未能满足财务报告要求，并显示出财务管理体系的崩溃。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据表3，2004财年美属萨摩亚、北马里亚纳群岛联邦（CNMI）、关岛和美属维尔京群岛（USVI）的联邦拨款支出总额是多少？", "answer": "总额为5.242亿美元（1.402亿 + 6230万 + 1.634亿 + 1.584亿）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "判断正误：表6和表7中的财务数据是最终确定的，并保证在未来的审计报告中不会发生变化。", "answer": "错误。文中明确指出可能会发生重述（restatements），随后发布的单一审计报告中的数字可能会有所不同。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "一位政府官员提议利用会议吸引美国企业前往岛屿地区。根据美国政府问责局（GAO）的报告，目前这些努力中缺乏哪一必要步骤？", "answer": "目前对这些会议和代表团活动几乎没有进行正式评估，GAO建议进行定期评估以确定其有效性。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据提供的数据，你如何描述北马里亚纳群岛联邦（CNMI）航空运营与旅游业之间的关系？", "answer": "这种关系具有高度依赖性；日本航空公司（JAL）取消直飞航班被视为对旅游业的重大威胁，因为JAL负责运送约30%的所有游客和40%的日本游客前往该岛。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果一个节点的“介数”（betweenness）中心度指标很高，这对系统中潜在财务损失的影响意味着什么？", "answer": "高介数表明该节点对网络中流动的内容（包括系统内的潜在损失）具有重要影响力。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果研究人员打算研究会计信息是否有助于用户决定是否向实体放贷，他们可能涉及论文中提到的哪两个主要目标之一？", "answer": "他们涉及的是“决策有用性”（decision usefulness），特别是与资源配置决策相关的方面，准则制定委员会（Boards）认为这涵盖了估值和受托责任两种视角。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "在分析中对因变量和自变量进行缩尾处理（winsorizing）的目的是什么？", "answer": "通过对变量的顶部和底部百分位数进行缩尾处理来处理异常值，且背景指出删除这些观测值不会在性质上改变结果。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据内政部（DOI）监察长报告列表，针对关岛经济发展管理局发布的审计报告的主要主题是什么？", "answer": "审计报告涵盖贷款项目、资格证书计划、债券服务、租赁运营和信托基金活动。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据提供的背景，将美国岛屿地区面临的经济挑战分为内部因素和外部因素。", "answer": "内部因素包括依赖少数关键行业、自然资源稀缺、国内市场狭小、基础设施有限以及熟练劳动力短缺。外部因素包括依赖联邦拨款资助基本服务以及税收和贸易法律变化的影响。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "在模型（5）中，包含了哪些变量来控制时间和横截面变化？", "answer": "该模型包括YEAR（一系列年度固定效应）和FFINDUSTRY（一系列行业固定效应）。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "一家政府机构在量化和记录工伤赔偿索赔负债方面遇到困难。根据文中内容，造成这一报告失败的根本原因是什么？", "answer": "根本原因是缺乏完整和准确的财务数据。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据提供的信息，欧元区“宏观网络”（Macro Network）是如何构建的？", "answer": "“宏观网络”是通过结合各个国家特定的行业网络构建而成的，其中银行业充当连接跨境要素的角色。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果审计师因另一位审计师对某实体出具了拒绝表示意见（disclaimed opinion）而无法确认医疗中心欠付的182,320美元余额，这表明财务报告链条的可靠性存在什么问题？", "answer": "这表明存在系统性的依赖问题，即一个实体无法维持可审计的记录，导致后续实体无法核实其自身的金融资产，从而普遍导致保留意见（qualified audit opinions）的审计报告。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据文本，为什么OIA的商业机会考察任务和会议的有效性目前尚不确定？", "answer": "有效性不确定是因为缺乏对这些工作的正式评估。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果要优化网络模型以排除未充分利用的链接，如何利用最大熵方法（maximum entropy method）实现这一目标？", "answer": "您可以在算法中包含约束条件，以引导解朝着期望的方向发展，具体做法是明确排除未充分利用或不存在的链接。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "尽管传染风险持续存在，文本指出哪个因素可能有助于增强金融稳定性？", "answer": "文本指出，更加多元化的跨境敞口可能有助于增强金融稳定性。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "比较北马里亚纳群岛联邦（CNMI）2002年和2004年联邦贡献占总收入的百分比。百分比变化是多少？", "answer": "2002年，联邦贡献占收入的25.0%。2004年，这一比例为21.1%。这代表下降了3.9个百分点。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "医院管理团队发现，由于特定的系统性问题，其逾期超过120天的应收账款余额被高估。根据文本，造成这些逾期应收账款的三个原因是什么？", "answer": "原因包括现行计算机计费系统的低效率、账单和催收办公室人员数量不足，以及政府健康保险计划（或超出年度上限的Medicaid支出被计入应收账款）未支付账单。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "假设一家公司在以资本密集型和无形资产著称的高增长行业运营。根据提供的论点，您是否认为会计信息对该公司的估值具有高度有用性？", "answer": "文本表明答案是不明确的；虽然人们可能预期会计信息对于评估复杂的增长型公司更有用，但也有观点认为，在无形资产和资本密集型环境中，会计信息的 informative 程度较低，这可能导致估值有用性降低。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "项目保障承包商（PSC）正在考虑新的欺诈检测工作流程。根据提供的文本，他们应利用哪些具体的外部来源来交叉核对索赔数据？", "answer": "PSC应利用独立来源，如社会保障局（Social Security Administration）的记录，来交叉核对索赔数据（例如，识别在受益人死亡日期之后 billed 的服务）。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "比较文本中描述的“主管机构”（cognizant agency）与“地方审计当局”（local auditing authority）的角色。", "answer": "主管机构是一个联邦机构，负责确保遵守《单一审计法案》（Single Audit Act）并管理联邦赠款的审计报告；而地方审计当局是一个审计和分析地方岛屿地区政府自身活动的实体，旨在提高地方政府运营的效率和效果。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "A. Wagenhofer (1996) 的《国际会计准则》重点与文中提到的2009年版相比有何不同？", "answer": "1996年版侧重于“国际会计准则”（International Accounting Standards），而2009年版将其重点转向了“国际财务报告准则”（Internationale Rechnungslegungstandards）。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "通过SAC项目的数据挖掘和数据共享技术，识别出的潜在欺诈付款总额是多少？", "answer": "SAC项目识别出约3,826万美元的潜在欺诈付款。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果一个政府实体发现由于计费不善导致有逾期超过120天的应收账款，审计师对联邦卫生中心（CHC）建议采取什么行动？", "answer": "审计师建议核销无法收回的账款，并要求CHC实施及时处理所有账单的程序，以及对账龄较长的账户进行跟进。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "为什么美属维尔京群岛（USVI）在2003年就公共融资管理局债务服务基金获得了无保留意见，而其普通基金却获得了保留意见？", "answer": "因为审计意见是基于单独的 opinion units 出具的；因此，审计师可以根据每个单位可用的证据和会计记录，对特定基金的公允性得出不同的结论。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "2002年，关岛“财务报告内部控制”类别中存在多少项非重大缺陷的报告条件（reportable conditions）？", "answer": "2002年，共有97项调查结果和41项重大缺陷。从97中减去41，得出56项非重大缺陷的报告条件。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据提供的文本，财务会计的“总体目的”是什么？", "answer": "财务会计的总体目的是向市场参与者提供对决策有用的信息。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果一家公司在管理层具有高度侵占财富倾向的环境中运营，这如何影响利益相关者对受托责任信息的需求？", "answer": "利益相关者对受托责任信息的需求会增加，因为此类信息用于评估管理层的行动，确保其遵守与会计相关的契约，从而降低财富被侵占的概率。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果研究人员希望进行“样本外”（out-of-sample）分析，他们应该使用三个已定义样本中的哪一个，为什么？", "answer": "他们应该使用“全样本”（full sample），因为它包含最大数量的公司-年观测值（311,907个），并包括了那些因数据不足而无法纳入横截面样本的公司。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果分析师正在评估一个“外围”国家银行的风险敞口，那么1.62的“平均路径长度”暗示了该银行与其他节点之间的连通性如何？", "answer": "1.62的平均路径长度表明，即使是外围节点，平均而言也可以在不到两步的时间内从任何其他节点到达，这意味着网络中的冲击可以迅速传导至外围。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据提供的定义，在遵守联邦项目方面，“重大缺陷”（material weakness）与一般的“应报告状况”（reportable condition）有何区别？", "answer": "重大缺陷是一种应报告状况，其中内部控制未能将发生重大不合规行为的风险降低到相对较低的水平，导致此类不合规行为在日常职责履行过程中未被发现。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "当所有受托责任指标同时包含在模型(9)中时，哪个受托责任指标失去了统计显著性？", "answer": "EMPL是唯一一个在模型中包含所有受托责任指标时，不再与VUSCORE呈现显著负相关的受托责任指标。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "指出文中提到的导致岛屿地区难以留住熟练劳动力的两个具体因素。", "answer": "这些因素包括：由于当地人可以自由迁移，面临与美国本土工资水平的竞争；以及普遍缺乏高技能劳动力池的限制。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "比较关岛和美属萨摩亚的就业部门，它们在经济依赖方面的主要区别是什么？", "answer": "美属萨摩亚严重依赖制造业（特别是金枪鱼加工），占比为35.3%；而关岛的制造业占比仅为2.0%，更依赖军事基地和较大的旅游业（占比18.0%）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "选择1990–2005年这一时间段进行分析的主要原因是什么？", "answer": "该时期被认为是一个当前的时间跨度，既平衡了对足够样本量的需求，又避免了使用更久远数据所带来的外部有效性担忧。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "内政部监察长办公室（IG）的角色与单一审计（single audit）的总体目标有何不同？", "answer": "虽然单一审计侧重于受援方的内部控制及其对联邦资助法规的合规性，但监察长拥有特定权力，可以审计与收入和收款相关的账户，向部长报告政府未能收回欠款的情况，以及报告非法支出。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据提供的工作论文列表，关于德国会计的论文2013-01的主要主题是什么？", "answer": "该论文侧重于德国的财务会计与报告，具体通过案例研究探讨德国会计传统以及采用国际财务报告准则（IFRS）的经验。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据提供的建议状态，“Medicare财务管理”与“Medicare不当支付”类别下的建议完成率分别是多少？", "answer": "在“Medicare财务管理”类别中，6项建议中有3项被标记为“取得重大进展”（50%）。在“Medicare不当支付”类别中，2项建议中没有一项被标记为“取得重大进展”（0%），这意味着100%的不当支付建议仍需采取额外行动。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "太平洋岛屿公共审计师协会（APIPA）最初成立的原因是什么？", "answer": "APIPA的成立旨在建立一个有组织的机构，以促进太平洋国家公共资源使用的效率和问责制，并赞助审计和会计培训工作坊。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "GAO-07-119报告主要涉及多少个具体的美国岛屿地区？", "answer": "主要有四个岛屿地区：美属萨摩亚、北马里亚纳群岛联邦（CNMI）、关岛和美属维尔京群岛（USVI）。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "尽管CMS为CERT和PEPP创建了数据库，为什么GAO认为关于“模型欺诈率项目”的建议仍然处于开放状态？", "answer": "虽然CMS为CERT和PEPP创建了数据库，但GAO指出，CMS尚未实施程序对这些索赔进行必要的评估和分析以加强欺诈检测，且“模型欺诈率项目”尚未实施。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "比较2001年至2004年间CNMI和USVI的财政策略，它们在管理余额方面的方法有何不同？", "answer": "在CNMI，随着政府支出增加，政府总基金的基金余额下降；而USVI保持了政府总基金的正余额，并通过增加借款专门解决其负净资产问题。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据文本，健康的私营部门与岛屿地区的财政状况之间有什么联系？", "answer": "健康的私营部门可以通过增加地方税收收入来改善岛屿地区的财政状况。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果联邦机构将某个岛屿地区政府指定为“高风险”受助方，通常有哪些潜在的财务问责问题导致了这一状态？", "answer": "这些指定是由于长期存在的财务问责问题造成的，包括延迟提交所需的单一审计报告（single audits）、收到拒绝表示意见或保留意见的审计报告，以及报告严重的内部控制缺陷。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "为什么作者在研究资本市场对季度盈余公告的反应时，更倾向于使用短窗口研究设计？", "answer": "使用短窗口研究设计是为了确保所观察到的与估值相关的决策有很高的概率是由新会计信息的到来具体引起的。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据表11，2004财年所有四个岛屿地区总共报告了多少项“重大缺陷”（Material weaknesses）？", "answer": "共报告了21项重大缺陷（美属萨摩亚6项，北马里亚纳群岛联邦8项，关岛4项，美属维尔京群岛3项）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "为什么美属维尔京群岛的经济稳定性被认为比美属萨摩亚更多样化？", "answer": "美属维尔京群岛被认为更多样化，因为它有几个收入来源——主要是旅游业、石油精炼以及国际商业和金融服务——而美属萨摩亚的经济主要依赖金枪鱼罐头加工业。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据文件，为什么与美属萨摩亚相比，地理隔离对关岛和北马里亚纳群岛联邦（CNMI）的限制因素较小？", "answer": "北马里亚纳群岛联邦和关岛处于有利位置，能够融入东亚的区域经济，而美属萨摩亚距离最近的大型经济体（澳大利亚和新西兰）超过1,600至2,000英里。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果一家企业考虑搬迁至美属维尔京群岛，它必须满足哪两个主要的居住地和收入来源条件才有资格获得经济发展公司（EDC）的税收豁免计划？", "answer": "该企业必须是美属维尔京群岛的真实居民（bona fide resident），且其收入必须来源于美属维尔京群岛境内，或与在美属维尔京群岛开展的贸易或业务有效关联。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果审计师正在审查美属萨摩亚的财务报表，他们应如何解释一个财年期末基金余额与下一个财年年初余额之间的差异？", "answer": "根据表4的附注，这种差异的产生是因为金额经常在随后的财务报表中进行重述，尽管这些重述的明确解释并不总是可获得或披露。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "计算截至报告日期，医疗保险和医疗补助服务中心（CMS）在完全解决美国政府问责局（GAO）建议方面的进展率。", "answer": "CMS已完全解决了8项建议中的4项，因此针对这些特定建议的完成率为50%。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "你正在评估两家公司。A公司的VUSCORE较高，B公司的VUSCORE较低。基于表3面板A的研究结果，哪家公司更可能表现出较少的非对称及时盈余？", "answer": "A公司更可能表现出较少的非对称及时盈余，因为文中指出，拥有更多具有估值有用性的财务会计信息（即较高的VUSCORE）的公司，其非对称及时盈余较少。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "美国教育部在哪一年取消了对北马里亚纳群岛联邦（CNMI）的高风险指定？", "answer": "2004年9月。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据文本，为什么海外投资管理局（OIA）表示，尽管他们的举措（如会议和代表团访问）促成了几笔商业交易，但其影响仅为“适度”？", "answer": "虽然这些举措成功建立了联系和联合项目，但OIA指出，由此产生的项目清单中不包括具有显著就业影响的新大型商业企业。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "当“ZRETURN”较高时，市场参与者在纳入会计信息方面可能面临潜在困难的原理是什么？", "answer": "当ZRETURN（交易成本和流动性的代理变量）较高时，由于较高的信息不对称水平以及缺乏愿意交易的市场参与者，市场参与者可能难以在短时间内纳入会计信息。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "仅考虑“最重要的外出连接”的方法如何影响网络的可见性？", "answer": "通过设定阈值（平均值）并删除低于该平均值的链接，降低了网络的复杂性，从而能够更清晰地关注核心结构和主要关系，而不是次要的、分散的链接。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "一家公司的RET值为-0.05。根据模型(4)和(5)，该公司二元变量NEG的值是多少？", "answer": "NEG的值为1，因为文中定义如果RET为负，则NEG为1，否则为0。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果美属维尔京群岛和北马里亚纳群岛联邦在2004财年结束时拥有“负的政府净资产”，这表明它们当时的财务状况如何？", "answer": "负净资产状况表明，在财年结束时，政府的负债超过了其资产，反映出财政状况减弱。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据提供的人口统计数据，哪个岛屿地区的贫困率最高，与美国本土的比率相比如何？", "answer": "美属萨摩亚的贫困率最高，为61.0%，显著高于美国本土12%的贫困率。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果审计师将美属维尔京群岛（USVI）2003年财务报告内部控制中的某项发现归类为“重大缺陷”（material weakness），那么该年度该特定类别下还存在多少其他应报告状况（reportable conditions）？", "answer": "根据表格，2003年财务报告内部控制方面存在3项重大缺陷和0项应报告状况；因此，不属于重大缺陷的应报告状况数量为0。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "《单一审计法案》（Single Audit Act）在报告背景下扮演什么角色？", "answer": "《单一审计法案》被提及为岛屿地区政府必须满足的财务问责和合规要求的关键组成部分。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据文本，为什么研究人员在美属萨摩亚、北马里亚纳群岛联邦（CNMI）和关岛发布其2005年单一审计报告后，决定不更新其财政状况信息？", "answer": "研究人员未更新信息，因为美属维尔京群岛（USVI）2005财年的单一审计报告尚未发布，从而无法对所有四个地区进行完整的比较分析。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "在美属维尔京群岛（USVI）经济发展计划类别下，“指定服务业务”（Designated Services Business, DSB）的定义是什么？", "answer": "服务类别中的合格企业包括商业投资经理和顾问、研发机构、商业和管理咨询师、软件开发商、电子商务企业、呼叫中心、高科技企业、国际公关公司、国际贸易和分销企业，以及其他服务于美属维尔京群岛（USVI）境外客户的业务。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "假设美属萨摩亚政府经历另一年总支出增加2200万美元且收入减少900万美元的情况，类似于2004年。基于2004年的期末余额，这对政府基金余额（governmental fund balance）的直接冲击是什么？", "answer": "基金余额将进一步减少3100万美元（2200万美元的额外支出加上900万美元的收入损失），使37,826,655美元的余额降至6,826,655美元。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "为了提高双边链接的准确性，标准最大熵方法（maximum entropy method）增加了哪两个具体约束条件？", "answer": "这两个约束条件是：1) 使用银行统计（BSI statistics）中关于银行业（货币金融机构，MFI）部门与所有其他部门之间链接的真实（或已实现）数据；2) 将世界其他地区（ROW）部门内的部门内交易设为零。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "分析关岛“财务报告内部控制”的数据：2002年至2004年间，发现事项总数发生了什么变化？", "answer": "发现事项总数从2002年的97项显著下降至2004年的7项。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据报告，就Medicare支付的完整性而言，主要剩余挑战是什么？", "answer": "主要剩余挑战是需要加强对欺诈性和滥用性Medicare支付的检测。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "根据审计报告，岛屿地区持续无法获得无保留审计意见（unqualified audit opinions），这对其会计实践意味着什么？", "answer": "这表明需要更加关注并正式评估其在解决财务管理系统中持续存在的问责问题方面的进展。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "为什么2003年财务报表中遗漏失业保险缴款应收账款会影响2004年的财务报告？", "answer": "需要该应收账款，因为它影响截至2004年9月30日止年度的收入确定和净资产变动。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "在1997年至2004年间，找出所有四个岛屿地区政府收到相同类型审计意见的财年。", "answer": "在2001和2002财年，所有四个岛屿地区政府（美属萨摩亚、北马里亚纳群岛联邦CNMI、关岛和美属维尔京群岛USVI）均收到了“保留意见”（Qualified opinion）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "在2005年前7个月与2006年前7个月之间，服装出口销售额的百分比降幅是多少？", "answer": "销售额从4.19亿美元下降至3.05亿美元，导致百分比降幅约为27.2%（(4.19 - 3.05) / 4.19）。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果CMS管理层希望优先完成“Medicare财务管理”类别，根据表1中的“需要采取的额外行动”列，他们应专注于哪些任务？", "answer": "他们应专注于制定分析和风险评估程序、制定全面的会计政策和程序，以及创建全面的Medicare财务管理战略。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "2002年，北马里亚纳群岛联邦（CNMI）的外国工人汇往国外的汇款估计是多少？这占GDP的百分比是多少？", "answer": "2002年的汇款估计约为8000万美元，约占GDP的10%。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果你是GERS（养老金信托基金）的会计师，根据提供的文本，你的财务记录中哪些具体问题会导致保留审计意见（qualified audit opinion）？", "answer": "你会因未根据《1994年提前退休法案》记录缴款、存在资产估值问题以及未能进行必要调整以反映与美属维尔京群岛（USVI）政府财政部之间的余额而被指出。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "海外投资办公室（OIA）如何证明其专注于与美国本土公司建立伙伴关系，而非来自邻近亚洲和太平洋国家的公司是合理的？", "answer": "尽管承认太平洋岛屿地区的自然经济伙伴是邻近的亚洲和太平洋国家，但OIA认为在寻求外国合作伙伴之前，需要优先与美国本土公司建立伙伴关系。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "为什么未能计提垃圾填埋场关闭及关闭后维护成本构成了对标准费用确认原则的偏离？", "answer": "权责发生制会计要求负债及相关费用在发生时予以确认。由于未对这些未来义务计提准备，该实体低估了其负债并高估了其净资产。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "如果分析师在最大熵方法和添加约束条件的版本之间进行选择，文中关于添加约束条件的目的提供了什么指导？", "answer": "可以添加约束条件以引导解决方案朝向期望的方向发展，例如通过排除利用率不足或不存在的链接。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果 CMS 承包商目前忽视了一项重大缺陷，根据提供的文本，承包商必须向 CMS 提交哪些具体文件来解决此问题？", "answer": "承包商必须提交一份针对已识别缺陷的纠正行动计划，CMS 随后将评估其充分性。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果审计师正在审查这些领域的问责制，与北马里亚纳群岛联邦（CNMI）和美属萨摩亚相比，关岛和美属维尔京群岛（USVI）缺乏地方宪法可能如何影响其财务治理结构？", "answer": "由于关岛和美属维尔京群岛（USVI）尚未通过地方宪法，而是依据国会批准的组织法运作，其治理框架由联邦法律而非地方通过的宪法确立。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "鉴于 VIHA 获得了截至 2005 年 12 月 31 日财政年度的无保留意见审计报告，这是否会自动触发其接管状态的结束？", "answer": "不会。虽然无保留意见审计报告是特定要求之一，但美国住房和城市发展部（HUD）还要求提供咨询委员会的证据、关键永久人员的聘用、公共住房评估系统（PHAS）分数的持续改善，以及更新政策和程序的一致实施情况。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "一名学生声称，既然一家制造工厂的成本为 5000 万美元，财务报告必须精确到分才有用。根据文本，这一说法是否正确？", "answer": "不，该说法不正确。文本指出，没有人期望如此大型项目的报告成本能精确到分，且缺乏绝对精度并不一定会降低数据对决策者的有用性。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果研究人员计算 CONS 指标并发现其值低于零，这表明该公司的会计行为有何特征？", "answer": "低于零的值表明存在反向不对称及时会计行为，具体表现为收益的确认速度快于损失的确认速度。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据美属维尔京群岛（USVI）表格，你观察到 2001 年至 2004 年间与主要联邦计划合规性要求相关的调查结果总数呈现什么趋势？", "answer": "美属维尔京群岛（USVI）与主要联邦计划合规性要求相关的调查结果总数从 2001 年的 61 项减少到 2004 年的 31 项。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "研究人员在审查单一审计报告时，评估了财务问责制的哪些组成部分？", "answer": "组成部分包括提交的及时性、审计师对财务报表的意见、保留意见中提及的事项、重大缺陷和可报告状况的数量及性质，以及纠正措施的状态。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "作者如何测试公司特定指标 CONS 的外部效度？", "answer": "作者使用基于 CONS 的行业排名 CONSIND 在全样本上测试外部效度，观察到不对称及时性水平随 CONSIND 一致增加。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "一家公司的信息基础设施非常薄弱，特征是分析师关注度极低且零交易日天数较多。根据提供的研究结果，你预计市场对该公司的盈余变化会作何反应？", "answer": "研究表明，信息基础设施较差的公司观察到市场对盈余变化的短期窗口反应更为显著，这表明盈余对这些特定公司具有更高的估值有用性。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "一位审计师正在评估 Medicare 支付的内部控制环境。根据文本，审计师应寻找哪三种技术以确保 CMS 有效识别不当支付？", "answer": "审计师应寻找数据挖掘技术的应用、数据共享（与社会保障局 SSA 等独立来源进行交叉引用）以及用于评估滥用模式的统计分析。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据文本，为什么市净率（MTB）比率可能被视为增长的一个有问题的代理变量，需要在解释时保持谨慎？", "answer": "文献中将市净率（MTB）用作风险、保守主义和增长等多种概念的代理变量。虽然模型控制了条件保守主义，但上下文明确建议在解释与市净率（MTB）相关的结果时应保持谨慎。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "假设一家公司正在决定是优先突出管理层资源责任履行情况的财务报告，还是关注预期现金流入的报告。根据 Gassen 的研究结果，该公司可能面临什么样的权衡？", "answer": "该公司面临着受托责任与估值有用性之间的权衡。由于研究表明这些是替代性目标，专注于受托责任（与契约相关的信息）可能会对市场提供的信息的估值有用性产生负面影响。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "计算归因于重大缺陷的调查结果占总调查结果（111 项）的百分比。", "answer": "在 111 项总调查结果中有 47 项重大缺陷，约占 42.34%。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "根据表 7 中 2004 年的数据，美属维尔京群岛（USVI）的人均支出是多少？", "answer": "2004 年的总支出为 998,122,000 美元，人口为 108,775 人。人均支出为 998,122,000 美元 / 108,775，等于 9,176 美元。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "关于股权市场之外的财务会计信息，未来研究的一个已识别领域是什么？", "answer": "未来研究的一个有前景的领域是财务会计信息在非股权市场（non-equity markets）上的估值有用性。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "为什么 OIA 目前记录现场访问结果的流程可能缺乏内部控制效率？", "answer": "根据上下文，OIA 不使用标准框架来记录结果，而是依赖笔记。缺乏常规化、标准化的程序使得无法始终如一地关注问责目标，并阻碍了系统地跟踪和跟进各政府间独特情况的能力。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "在什么情况下，联邦拨款机构可以将受助者指定为“高风险”？", "answer": "如果受助者有令人不满意的表现记录、财务不稳定、管理系统不充分、未能遵守先前拨款的条款，或未能妥善管理联邦资金，则可能被指定为高风险。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "SFAC 1.37 和 1.50 中确定的财务会计的两个具体子目标是什么？", "answer": "这两个子目标是“估值有用性”（valuation usefulness，SFAC 1.37）和“受托责任”（stewardship）或“契约有用性”（contracting usefulness，SFAC 1.50）。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果委员会采纳作者关于子目标的建议，“联合概念框架”可能会受到怎样的影响？", "answer": "该框架将不再将所有信息统一视为在单一范畴下的“决策有用性”，而是明确平衡估值有用性和受托责任这两个不同子目标之间的张力。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "某政府机构在其基本财务报表中遗漏了一项已知的工伤赔偿索赔负债。根据附录 I，这种遗漏对审计意见的可能影响是什么？", "answer": "遗漏工伤赔偿索赔负债被列为导致保留审计意见（qualified audit opinion）的事项。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据文中内容，与会计信息相关的合同决策的三个具体例子是什么？", "answer": "提供的例子包括管理层薪酬合同、债务契约（debt covenants）和集体劳动协议。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "文中提到，估值有用性与哪位作者定义的“估值相关信息”术语密切相关？", "answer": "文中将其与 Christensen 和 Demski（2003）提出的定义联系起来。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "为什么作者认为 Bushman 等人（2006）的研究关于受托责任与估值兼容性的结论可能与作者自己的结论不同？", "answer": "作者认为，Bushman 等人假设价值相关性（value relevance）捕捉了估值有用性，而作者主张估值有用性更恰当地由会计公告引发的短期窗口资本市场反应来捕捉。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "为什么外籍工人汇款对北马里亚纳群岛联邦（CNMI）当地经济的影响仍然有限？", "answer": "影响有限是因为未作为汇款汇出的剩余收入用于购买当地商品和服务，这只占经济活动总量的一小部分。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "OIA 计划于 2007 年 6 月召开的会议的目的是什么？", "answer": "旨在召集联邦拨款机构和岛屿地区，协调努力以解决单一审计报告中的重大发现、财务管理问题以及高风险指定相关问题。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "审计师确定美属萨摩亚错过单一审计截止日期的两个原因是什么？", "answer": "这两个原因是：(1) 会计系统故障；(2) 缺乏受过培训、合格且胜任的人员。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果政府实体未能保持有条理的记录和正式的存储程序，文中描述的潜在会计后果是什么？", "answer": "后果是文件可能被错放、丢失或销毁而未被察觉，这被归类为重大内部控制缺陷（material internal control weakness）。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "非会计信息基础设施的质量如何影响对具有估值有用性的会计信息的需求？", "answer": "企业的非会计信息环境越好，对具有估值有用性的会计信息的需求就越低，因为其他信息来源会将其挤出。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "一名研究人员正考虑将分析期从 16 年延长至 40 年以增加统计功效。根据提供的文本，这种方法的主要风险是什么？", "answer": "主要风险是内部有效性（internal validity）降低，因为延长时间段假设公司属性在很长时期内保持不变，而事实可能并非如此。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "宏观审慎研究网络（MaRs）的组成是什么？", "answer": "该网络由欧洲中央银行体系（ESCB）的经济学家组成，其中包括欧盟的 27 家国家中央银行和欧洲中央银行。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "如果一项研究要求将“盈余平滑度”（earnings smoothness）作为变量纳入，根据文本，这会对样本量产生什么影响？", "answer": "纳入盈余平滑度会将横截面样本量从3,425个公司观测值减少到2,817个，因为该计算需要特定的现金流数据。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "审计师正在评估美属维尔京群岛（USVI）政府2004年对联邦计划的合规情况。如果审计师发现政府未能以管理和预算办公室（OMB）A-133号通告中描述的方式遵守要求，他们应针对这些特定计划发表何种类型的意见？", "answer": "审计师应针对这些特定计划发表否定意见（adverse opinion），因为这表明政府在重大方面未遵守相关要求。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据提供的文本，使用时间序列数据调查公司属性时存在的两个主要问题是什么？", "answer": "这两个问题是：(1) 会计数据频率低导致统计功效（statistical power）较低；(2) 由于假设公司属性在研究期间保持不变而引发的内部效度（internal validity）担忧。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "该研究分析的主要焦点是哪些具体的金融工具？", "answer": "该研究侧重于存款、债务证券、贷款和股权股份。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "根据表12，哪个岛屿地区报告的可报告状况（reportable conditions）数量最多？", "answer": "北马里亚纳群岛联邦（CNMI）报告的可报告状况数量最多，总计31项。", "type": "事实性"}
+{"domain": "financial_accounting", "question": "为什么文中仅将衡量受托责任（stewardship）的“需求驱动”概念用作次要测试？", "answer": "它仅被用作次要测试，因为它依赖于受托责任信息的需求与供给处于均衡状态的假设；如果市场摩擦导致供需失衡，该概念将失效。", "type": "推理型"}
+{"domain": "financial_accounting", "question": "考虑到北马里亚纳群岛联邦（CNMI）的审计发现，如果审计师连续四年无法确定“应收账款的适当性”，这表明实体在准确确认收入和支出方面的能力如何？", "answer": "这表明实体缺乏可靠的基础来确定所有政府基金类型收入和支出的准确性，因为基础的应收账款、预付款和应计项目无法得到验证。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "作为内政部部长的顾问，你的任务是改善财务监督。根据报告，你应该实施哪一项关于审计发现的行政程序？", "answer": "你应该实施评估岛屿地区在解决审计发现方面取得进展的程序，并设定实现无保留审计意见的具体时间表。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果在理论情境下财务会计完美地履行了其受托责任角色，为什么它可能无法提供对估值有用的信息？", "answer": "如果受托责任是完美的，管理层的行动将与投资者偏好完全一致，这意味着会计报告不会显示任何偏差或意外。因此，公司价值将遵循随机游走（random walk），导致会计无法提供有助于估值的新信息。", "type": "分析型"}
+{"domain": "financial_accounting", "question": "如果会计师发布的一份财务报告仅仅确认了市场已从非财务来源得知的信息，根据作者对估值有用性的定义，这将如何分类？", "answer": "它将被归类为缺乏估值有用性，因为该信息充当的是“纯粹的回声”，而非提供新的见解以帮助市场参与者了解他们此前未知的内容。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "如果会计师希望比较传统的德国会计实务与现代国际财务报告准则（IFRS）标准，哪份出版物提供了这种比较？", "answer": "工作论文2013-01提供了一份关于德国会计传统及采用IFRS经验的案例研究。", "type": "情景型"}
+{"domain": "financial_accounting", "question": "根据文本，为什么食品与营养服务局（FNS）官员认为高风险指定有助于识别受助者组织内部严重的、以前未知的问题？", "answer": "FNS官员认为，与高风险指定相关的额外要求将有助于确定是否存在其他严重但未被识别的问题，这些问题可能因当前的弱点和控制不足而被掩盖。", "type": "推理型"}

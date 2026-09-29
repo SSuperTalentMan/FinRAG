@@ -1,0 +1,1771 @@
+[
+  {
+    "question": "华东区上月的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区销售额排名",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区上月的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区GMV排名",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区上月的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区订单量排名",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近7天的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近7天的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近7天的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区本月的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区本月的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区本月的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区今年的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区今年的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区今年的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区2025年的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区2025年的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区2025年的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区上一季度的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区上一季度的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区上一季度的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区第二季度的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区第二季度的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区第二季度的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近30天的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近30天的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近30天的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近90天的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近90天的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区近90天的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "各门店上月的销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "各门店销售额排名",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "各门店上月的GMV是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "各门店GMV排名",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "各门店上月的订单量是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "各门店订单量排名",
+    "skill": "nl2sql",
+    "tags": [
+      "tpl"
+    ]
+  },
+  {
+    "question": "华东区上月销售额是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "2025年各门店的GMV排名",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "退货率最高的三个商品是什么",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "全公司近7天订单总量",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "本季度各区域营收环比增长",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "华东大区3月客单价多少",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "近30天退款金额合计",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "各城市门店数量分布",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "本月新客与复购客户数量",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "华南区销售额占比多少",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "去年全年利润和净利润分别是多少",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "Top5 商品销量榜",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "各地区毛利率对比",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "客单价最高的省份排名",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "最近一次促销活动的GMV",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "订单数最多的门店",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "环比下降最快的区域",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "净额最大的客户TOP10",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "今年与去年营收同比增长率",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "各品类库存量汇总",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "账户余额超过10万的门店",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "平均每单的毛利额",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "交易量最少的大区",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "费用最高的三个项目",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "完成率最高的销售代表",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "2025年6月总营收",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "京东渠道销售占比",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "哪个区域业绩最好",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "近7天销售额最高的城市",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "退货退款金额与订单笔数关系",
+    "skill": "nl2sql",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "帮我统计一下每个大区的销售额",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "2025年各区域的销售额对比",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "帮我统计一下每个大区的GMV",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "2025年各区域的GMV对比",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "帮我统计一下每个大区的营业收入",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "2025年各区域的营业收入对比",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "帮我统计一下每个大区的退货率",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "2025年各区域的退货率对比",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "帮我统计一下每个大区的客单价",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "2025年各区域的客单价对比",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "帮我统计一下每个大区的毛利率",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "2025年各区域的毛利率对比",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "帮我统计一下每个大区的净利润",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "2025年各区域的净利润对比",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "帮我统计一下每个大区的库存",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "2025年各区域的库存对比",
+    "skill": "nl2sql",
+    "tags": [
+      "metric"
+    ]
+  },
+  {
+    "question": "存款保险制度规定的偿付限额是多少",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "股票发行注册制改革的主要内容是什么",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "个人征信报告多久更新一次",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "我如何申请信用卡代还服务",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "基金赎回到账需要几个工作日",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "什么是结构性存款",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "银行理财产品的风险等级如何划分",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "反洗钱法对客户身份识别有什么要求",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "持续高收益的投资产品是否存在",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "国债与定期存款的区别",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "ETC自动扣款失败如何处理",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "信用卡逾期会有什么后果",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "房贷利率LPR转换是什么意思",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "保险公司破产了保单怎么办",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "证券账户休眠怎么激活",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "外汇现钞和现汇有什么区别",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "养老金个人账户是怎么计算的",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "存款保险的覆盖范围包括哪些",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "企业应收账款融资需要什么材料",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "再保与直保的主要区别",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "如何查询名下所有银行账户",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "科创板50指数的成分权重",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "电动汽驱动电机故障诊断方法",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "宽带提速包如何办理",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "火车票改签的费用规则",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "如何防范电信网络诈骗",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "医保个人账户能否用于门诊",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "大额存单提前支取的利息计算",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "汇率风险管理工具有哪些",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "融资融券的平仓规则",
+    "skill": "rag",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "存款保险制度规定的偿付限额是多少，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "股票发行注册制改革的主要内容是什么，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "个人征信报告多久更新一次，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "我如何申请信用卡代还服务，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "基金赎回到账需要几个工作日，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "什么是结构性存款，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "银行理财产品的风险等级如何划分，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "反洗钱法对客户身份识别有什么要求，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "持续高收益的投资产品是否存在，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "国债与定期存款的区别，请根据政策文件回答",
+    "skill": "rag",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于存款保险偿付限额是多少的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于股票注册制改革主要变化的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于征信查询收费不的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于理财产品风险分级的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于基金赎回到账时间的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于大额存单提前支取规则的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于融资融券平仓线的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于ETC扣费失败怎么办的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于信用卡逾期后果的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "知识库里有没有关于外汇现钞现汇区别的材料",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索存款保险偿付限额是多少相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索股票注册制改革主要变化相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索征信查询收费不相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索理财产品风险分级相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索基金赎回到账时间相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索大额存单提前支取规则相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索融资融券平仓线相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索ETC扣费失败怎么办相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索信用卡逾期后果相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "请检索外汇现钞现汇区别相关的政策条款",
+    "skill": "rag",
+    "tags": [
+      "kb"
+    ]
+  },
+  {
+    "question": "通俗解释一下什么是存款保险",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "股票注册制是什么意思",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "简述基金定投的优缺点",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "金融消费者八项权益有哪些",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "信用卡停息挂账如何申请",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "手机银行转账限额是多少",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "商业保险与社保的区别",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "什么是绿色债券",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "银行破产怎么处理我的存款",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "可转债和普通债券的区别",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "账单分期手续费怎么算",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "什么是净息差",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "城投债有什么特征",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "REITs是什么",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "固定资产折旧方法有哪些",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "什么是资本充足率",
+    "skill": "rag",
+    "tags": [
+      "interp"
+    ]
+  },
+  {
+    "question": "根据通俗解释一下什么是存款保险，梳理要点",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "根据股票注册制是什么意思，梳理要点",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "根据简述基金定投的优缺点，梳理要点",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "根据金融消费者八项权益有哪些，梳理要点",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "根据信用卡停息挂账如何申请，梳理要点",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "根据手机银行转账限额是多少，梳理要点",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "根据商业保险与社保的区别，梳理要点",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "根据什么是绿色债券，梳理要点",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "总结一下通俗解释一下什么是存款保险的核心内容",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "总结一下股票注册制是什么意思的核心内容",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "总结一下简述基金定投的优缺点的核心内容",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "总结一下金融消费者八项权益有哪些的核心内容",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "总结一下信用卡停息挂账如何申请的核心内容",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "总结一下手机银行转账限额是多少的核心内容",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "总结一下商业保险与社保的区别的核心内容",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "总结一下什么是绿色债券的核心内容",
+    "skill": "rag",
+    "tags": [
+      "summary"
+    ]
+  },
+  {
+    "question": "你好",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "您好",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "嗨",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "哈喽",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "hello",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "早上好",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "晚上好",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "在吗",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "谢谢",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "辛苦了",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "你是谁",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "你能做什么",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "你会什么",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "请自我介绍一下",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "再见",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "拜拜",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "帮我打个招呼",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "来点轻松的",
+    "skill": "chitchat",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "请问你能提供哪些帮助?",
+    "skill": "chitchat",
+    "tags": [
+      "more"
+    ]
+  },
+  {
+    "question": "现在方便聊会天吗?",
+    "skill": "chitchat",
+    "tags": [
+      "more"
+    ]
+  },
+  {
+    "question": "周末愉快",
+    "skill": "chitchat",
+    "tags": [
+      "more"
+    ]
+  },
+  {
+    "question": "认识你很高兴",
+    "skill": "chitchat",
+    "tags": [
+      "more"
+    ]
+  },
+  {
+    "question": "识别这张照片里的车牌号",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "扫描这张发票图片提取金额",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "帮我看看这张截图上写了什么",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "识别合同扫描件的有效期条款",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "读取图片中表格的销售数据",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "这张票据图片里客户名称是什么",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "识别二维码内容",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "扫描条形码查询信息",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "图中显示的商品条码是什么",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "帮我提取扫描件里的红章内容",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "这张手写单据识别一下",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "识别图片中的身份证号码",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "把这张图表翻译成文字",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "这张凭证图片的凭证号是多少",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "扫描这张提单识别提运单号",
+    "skill": "multimodal",
+    "tags": [
+      "curated"
+    ]
+  },
+  {
+    "question": "把这张发票识别出来",
+    "skill": "multimodal",
+    "tags": [
+      "parse"
+    ]
+  },
+  {
+    "question": "把这张化验单识别出来",
+    "skill": "multimodal",
+    "tags": [
+      "parse"
+    ]
+  },
+  {
+    "question": "把这张证件照识别出来",
+    "skill": "multimodal",
+    "tags": [
+      "parse"
+    ]
+  },
+  {
+    "question": "把这张扫描合同识别出来",
+    "skill": "multimodal",
+    "tags": [
+      "parse"
+    ]
+  },
+  {
+    "question": "解析一下这份征求件的扫描版本",
+    "skill": "multimodal",
+    "tags": [
+      "more"
+    ]
+  },
+  {
+    "question": "提取截图里的商品价格",
+    "skill": "multimodal",
+    "tags": [
+      "more"
+    ]
+  },
+  {
+    "question": "读取这张表格的照片内容",
+    "skill": "multimodal",
+    "tags": [
+      "more"
+    ]
+  },
+  {
+    "question": "帮我审一下这份采购合同，看看有没有违规条款",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "违规条款"
+    ]
+  },
+  {
+    "question": "帮我审查一下这份借款合同的风险点",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "风险点"
+    ]
+  },
+  {
+    "question": "这份房屋租赁协议合规吗？有哪些条款不合规",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查"
+    ]
+  },
+  {
+    "question": "请对这份股权投资协议做合规体检",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查",
+      "合规体检"
+    ]
+  },
+  {
+    "question": "帮我审这份劳动合同，有没有风险",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "风险"
+    ]
+  },
+  {
+    "question": "这份供应商协议条款审查一下",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "条款审查"
+    ]
+  },
+  {
+    "question": "帮我查一下这份技术服务合同哪里有问题",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "问题定位"
+    ]
+  },
+  {
+    "question": "这份保密协议符合法律规定吗",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查",
+      "符合法律"
+    ]
+  },
+  {
+    "question": "给我审一下这份合伙协议，挑挑毛病",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查"
+    ]
+  },
+  {
+    "question": "这份并购协议有没有踩红线",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "违规"
+    ]
+  },
+  {
+    "question": "帮我校验一下这份销售合同的条款",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "校验"
+    ]
+  },
+  {
+    "question": "这份用户协议是否合规",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查"
+    ]
+  },
+  {
+    "question": "帮我审这个加盟合同",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查"
+    ]
+  },
+  {
+    "question": "这份章程文档需要合规检查",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查"
+    ]
+  },
+  {
+    "question": "这份招股书有没有不合规的地方",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查",
+      "招股书"
+    ]
+  },
+  {
+    "question": "帮我校核对一下这份保险协议的风险",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "风险"
+    ]
+  },
+  {
+    "question": "这份产品说明书合规吗",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查"
+    ]
+  },
+  {
+    "question": "审查这份框架采购协议",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查"
+    ]
+  },
+  {
+    "question": "这份劳动合同的违约金条款有没有问题",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "问题定位"
+    ]
+  },
+  {
+    "question": "帮我看看这份加盟协议有没有问题",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "问题定位"
+    ]
+  },
+  {
+    "question": "这份服务合同条款里有哪些风险点",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "风险点"
+    ]
+  },
+  {
+    "question": "请对这份软件许可协议做条款审查",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "条款审查"
+    ]
+  },
+  {
+    "question": "这份担保合同符合监管要求吗",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查",
+      "符合监管"
+    ]
+  },
+  {
+    "question": "帮我审一下这份经销协议正文",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查"
+    ]
+  },
+  {
+    "question": "这份对赌协议有没有违规条款",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "违规条款"
+    ]
+  },
+  {
+    "question": "这份代理合同有没有风险",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "风险"
+    ]
+  },
+  {
+    "question": "请帮我校验这份特许经营协议是否合规",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合规检查"
+    ]
+  },
+  {
+    "question": "这份补充协议里有什么风险",
+    "skill": "review",
+    "tags": [
+      "review",
+      "合同审查",
+      "风险"
+    ]
+  }
+]

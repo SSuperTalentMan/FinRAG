@@ -1,0 +1,72 @@
+# ─── Python ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# ─── 虚拟环境 / 依赖缓存 ──────────────────────────────────────────────
+uv.lock.bak
+
+# ─── 密钥与本地配置（绝不入库）────────────────────────────────────────
+.jwt_secret
+.env
+# 本地配置含数据库密码，请用 config.ini.example 作模板
+# ⚠️ gitignore 不支持「行内注释」——# 只有独占一行才算注释。
+#    之前写成 `config.ini   # 说明` 导致整行被当成一个永不匹配的文件名，
+#    config.ini 实际处于「会被提交」状态，差点把 DB 凭据推进仓库。
+config.ini
+*.local.ini
+
+# ─── 日志 ─────────────────────────────────────────────────────────────
+logs/
+*.log
+
+# ─── 运行时产物 ───────────────────────────────────────────────────────
+evals/experiments/
+evals/datasets/
+data/documents/
+data/.initialized
+.app_initialized
+
+# ─── 大型本地模型权重（通过 volume 挂载或下载，不入库）──────────────
+bert-base-chinese/
+bert-base-chinese/*
+bge-m3/
+bge-m3/*
+bge-reranker-v2-m3/
+bge-reranker-v2-m3/*
+rag_qa/models/bert_intent/
+
+# ─── 编辑器 / 系统 ────────────────────────────────────────────────────
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# ─── 缓存 / 临时目录 ──────────────────────────────────────────────────
+.temp_pip/
+.user_venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ─── AI 工作记忆与协作规范（本地留存，不入库）────────────────────────
+.workbuddy/
+CLAUDE.md
+
+# ─── 运行时测试产物（哈希/时间戳命名，跑测试会重新生成）──────────────
+data/compliance/uploads/
+data/compliance/reports/
+
+# ============ 个人求职材料（禁止公开）============
+# 规则按「文件名」匹配，而材料命名会变 —— 用「前缀 + 全库通配」双套兜底。
+# 教训：曾只写 docs/简历_*.md，结果 docs/面试_X.md 因文件名不含「简历」而漏网。
+*简历*
+*面试*
+docs/简历_*.md
+docs/面试_*.md
+*.docx

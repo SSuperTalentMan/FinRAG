@@ -1,0 +1,93 @@
+# ============================================================
+# FinRAG 金融智能问答系统 - 配置模板
+# 使用：复制为 config.ini 并填入真实值：cp config.ini.example config.ini
+# 注意：config.ini 已被 .gitignore 忽略，请勿提交任何密钥。
+# 所有配置项均可被同名环境变量覆盖（见 .env.example）。
+# ============================================================
+
+# ---------- MySQL 配置 ----------
+[mysql]
+host = localhost
+port = 3306
+user = root
+password = root
+database = finrag_qa
+
+# ---------- Redis 配置 ----------
+[redis]
+host = localhost
+port = 6379
+password =
+db = 0
+
+# ---------- Milvus 向量数据库配置 ----------
+# 本地 standalone 默认无鉴权，password 留空即可
+[milvus]
+host = localhost
+port = 19530
+user = root
+password =
+database_name = finrag
+collection_name = finrag_faq
+
+# ---------- LLM 配置 ----------
+# API Key 不要写在这里！请通过环境变量 DASHSCOPE_API_KEY（或 .env）注入
+[llm]
+model = qwen3.7-flash
+dashscope_api_key =
+dashscope_base_url = https://dashscope.aliyuncs.com/compatible-mode/v1
+temperature = 0.7
+max_tokens = 2048
+# 备用模型：主模型失败（限流/下线）时自动降级重试一次；留空 = 不启用
+fallback_model =
+
+# ---------- 检索参数配置 ----------
+[retrieval]
+parent_chunk_size = 1200
+child_chunk_size = 300
+chunk_overlap = 50
+retrieval_k = 5
+candidate_m = 5
+similarity_threshold = 0.7
+bm25_hit_threshold = 0.75
+# 多策略检索（直接/HyDE/子查询/回溯）：规则预筛路由，绝大多数查询仍走直接检索
+multi_strategy_enabled = true
+# 规则未命中时对长查询启用 LLM 策略选择器兜底（增加一次 LLM 调用延迟）
+strategy_llm_fallback = false
+
+# ---------- 限流配置 ----------
+[rate_limit]
+# 认证接口（登录/注册）：每 IP 每分钟最大次数
+auth_window = 60
+auth_max = 20
+# 问答接口全局：每 IP 每分钟最大请求数
+chat_window = 60
+chat_max = 30
+# 用户 LLM 配额：单用户每小时最大问答次数
+llm_quota_window = 3600
+llm_quota_max = 100
+
+# ---------- 日志配置 ----------
+[logger]
+log_file = ./logs/app.log
+log_level = INFO
+
+# ---------- 本地模型路径配置 ----------
+[models]
+bert_intent_model_path = ./rag_qa/models/bert_intent
+bert_base_model_path = ./bert-base-chinese
+bert_epochs = 5
+bert_batch_size = 16
+bert_lr = 2e-5
+bert_max_length = 64
+bert_min_general_samples = 30
+
+# ---------- 应用运行配置 ----------
+[app]
+host = 0.0.0.0
+port = 8000
+valid_sources = ["banking", "corporate_finance", "financial_accounting", "financial_markets", "fintech", "insurance", "investment_banking", "wealth_management", "risk_management", "stock_market"]
+customer_service_phone = 400-888-8888
+documents_path = ./data/documents
+faq_data_path = ./data/faq
+# cors_origins = http://localhost:8000,http://127.0.0.1:8000

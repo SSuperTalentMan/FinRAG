@@ -1,0 +1,117 @@
+[project]
+name = "finrag"
+version = "1.0.0"
+description = "FinRag — 金融领域智能问答系统（RAG + BM25 + 向量检索 + BERT意图识别）"
+requires-python = ">=3.12"
+dependencies = [
+    # ─── Web 框架 ─────────────────────────────────────────────────────
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.30.0",
+    "pydantic>=2.6.0",
+
+    # ─── 数据库 / 缓存客户端 ────────────────────────────────────────────
+    "pymysql>=1.1.0",
+    "dbutils>=3.0.0",
+    "cryptography>=42.0.0",
+    "redis>=5.0.0",
+    "pymilvus>=2.4.0",
+
+    # ─── LLM 调用 ─────────────────────────────────────────────────────
+    "openai>=1.30.0",
+
+    # ─── 本地模型推理（BGE-M3 / BGE-Reranker / BERT）──────────────────
+    "FlagEmbedding>=1.4.0",
+    "scipy>=1.14.0",
+    "torch>=2.3.0",
+    "transformers>=4.40.0",
+    "sentence-transformers>=3.0.0",
+
+    # ─── BM25 检索 & 中文分词 ─────────────────────────────────────────
+    "jieba>=0.42.1",
+    "rank-bm25>=0.2.2",
+    "numpy>=1.26.0",
+
+    # ─── LangChain（文档加载 & 文本切分）──────────────────────────────
+    "langchain-core>=0.3.0",
+    "langchain-community>=0.3.0",
+    "langchain-text-splitters>=0.3.0",
+    "unstructured>=0.15.0",
+
+    # ─── 文档解析 ─────────────────────────────────────────────────────
+    "pymupdf>=1.24.0",
+    "python-docx>=1.1.0",
+
+    # ─── OCR 引擎 ─────────────────────────────────────────────────────
+    "rapidocr-onnxruntime>=1.3.0",
+
+    # ─── 认证 & 安全 ──────────────────────────────────────────────────
+    "python-jose[cryptography]>=3.3.0",
+    "pillow>=10.0.0",
+
+    # ─── 日志 ─────────────────────────────────────────────────────────
+    "loguru>=0.7.0",
+
+    # ─── 可观测性（Prometheus 指标暴露）────────────────────────────────
+    "prometheus-client>=0.20.0",
+
+    # ─── 测试 ─────────────────────────────────────────────────────────
+    "pytest>=8.0.0",
+    "pytest-mock>=3.14.0",
+
+    # ─── RAG 评估（RAGAS 框架）───────────────────────────────────────
+    "ragas>=0.2.0",
+]
+
+[tool.uv]
+index-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+
+# ─── 开发依赖（仅在本地/CI 使用，Docker 构建走 --no-dev 不会安装）──────────────
+[dependency-groups]
+dev = [
+    "ruff>=0.6.0",
+    "mypy>=1.11.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+# ─── Ruff（lint + format）────────────────────────────────────────────────────
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+exclude = [
+    ".venv",
+    "bge-m3",
+    "bge-reranker-v2-m3",
+    "bert-base-chinese",
+    "rag_qa/models",
+]
+
+[tool.ruff.lint]
+# E: pycodestyle, F: pyflakes, I: isort, W: pycodestyle warning
+# UP: pyupgrade, B: bugbear, SIM: flake8-simplify
+select = ["E", "F", "I", "W", "UP", "B", "SIM"]
+ignore = [
+    "E501",   # 行长（由 formatter 保证，不强制手动断行）
+    "UP007",  # 允许 Optional[X] 与 X | None 混用
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = true
+
+# ─── Mypy（类型检查）──────────────────────────────────────────────────────────
+[tool.mypy]
+python_version = "3.12"
+ignore_missing_imports = true
+check_untyped_defs = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+no_implicit_optional = true
+exclude = [
+    "bge-m3/",
+    "bge-reranker-v2-m3/",
+    "bert-base-chinese/",
+]
